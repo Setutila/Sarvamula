@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://setutila.in/schemas/setutila-content.schema.json",
+  "title": "Setutila Content JSON",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "content"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Document identifier (typically the sheet/work id, e.g. 'vtn', 'MAHE_TRK_18')."
+    },
+    "content": {
+      "type": "array",
+      "description": "Hierarchical content tree: ContentType -> Pramana -> Padya -> leaf rows.",
+      "items": { "$ref": "#/$defs/ContentTypeNode" }
+    },
+    "content_flat": {
+      "type": "object",
+      "description": "Legacy flat index by row ID. Present for backward compatibility.",
+      "additionalProperties": { "$ref": "#/$defs/LegacyFlatRow" }
+    }
+  },
+  "$defs": {
+    "UuidLike": {
+      "type": "string",
+      "description": "Row identifier. Usually a UUID string.",
+      "minLength": 1
+    },
+    "ContentTypeNode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["content_type", "children"],
+      "properties": {
+        "content_type": {
+          "type": "string",
+          "description": "Sheet ContentType for the block (e.g. 'Mula', 'Heading1', 'Sarvamula', etc.)."
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Node" }
+        }
+      }
+    },
+    "Node": {
+      "description": "Any node in the hierarchical tree.",
+      "oneOf": [
+        { "$ref": "#/$defs/PramanaNode" },
+        { "$ref": "#/$defs/PadyaNode" },
+        { "$ref": "#/$defs/LeafRow" }
+      ]
+    },
+    "PramanaNode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pramana", "children"],
+      "properties": {
+        "pramana": {
+          "const": true,
+          "description": "Groups rows inside a Pramana block."
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Node" }
+        }
+      }
+    },
+    "PadyaNode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["padya", "children"],
+      "properties": {
+        "padya": {
+          "const": true,
+          "description": "Groups rows inside a Padya block. Inline rows are always emitted as leaf children of this node."
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Node" }
+        }
+      }
+    },
+    "LeafRow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "text"],
+      "properties": {
+        "id": { "$ref": "#/$defs/UuidLike" },
+        "text": {
+          "type": "string",
+          "description": "Text content for the row."
+        },
+        "pratika_type": {
+          "type": "string",
+          "description": "If present, indicates a Pratika wrapper type."
+        },
+        "kutra": {
+          "type": "string",
+          "description": "Kūtra/attribution string if present."
+        },
+        "bg_patha": {
+          "type": "string",
+          "description": "BG variant text for this row (if present)."
+        },
+        "trk_patha": {
+          "type": "string",
+          "description": "TRK variant text for this row (if present)."
+        },
+        "pathanatara": {
+          "type": "string",
+          "description": "Additional pathāntara note (if present)."
+        },
+        "footnote": {
+          "type": "string",
+          "description": "Footnote text (if present)."
+        },
+        "reference": {
+          "type": "string",
+          "description": "Reference/HyperLinkTarget id (if present)."
+        }
+      }
+    },
+    "LegacyFlatRow": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["text", "content_type", "is_pramana", "is_padya", "kutra", "footnote", "pratika_type", "pathanatara"],
+      "properties": {
+        "text": { "type": "string" },
+        "content_type": { "type": "string" },
+        "is_pramana": { "type": ["string", "null"] },
+        "is_padya": { "type": ["string", "null"] },
+        "kutra": { "type": ["string", "null"] },
+        "footnote": { "type": ["string", "null"] },
+        "pratika_type": { "type": ["string", "null"] },
+        "pathanatara": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "bg_patha": { "type": ["string", "null"] },
+            "trk_patha": { "type": ["string", "null"] },
+            "pathanatara": { "type": ["string", "null"] }
+          }
+        },
+        "reference": { "type": ["string", "null"] }
+      }
+    }
+  }
+}
+
