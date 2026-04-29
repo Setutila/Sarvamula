@@ -1,0 +1,1869 @@
+{
+  "title": "kl",
+  "content": [
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "17ef0324-1af8-4790-b658-88beda7ed00a",
+          "text": "देवतानमस्कारपूर्वकं विवक्षितनिर्देशः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "7ad1e75b-35ac-4910-8c98-a2672488c496",
+              "text": "ॐ॥ नृसिंहमखिलाज्ञानतिमिराशिशिराद्युतिम्।"
+            },
+            {
+              "id": "b5107a4a-8bfe-4321-a1a8-e8dfc0b8bb90",
+              "text": "सम्प्रणम्य प्रवक्ष्यामि कथालक्षणमञ्जसा॥ १॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "af347ca8-0e64-4708-a931-79ec91b3a735",
+          "text": "कथासामान्यलक्षणम्, तद्विभागश्च"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "e4ac6e41-0988-41f8-aa9d-9d9ba21ed3c0",
+              "text": "वादो जल्पो वितण्डेति त्रिविधा विदुषां कथा।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "c866986a-e0d3-4248-8ac4-70c30e3f291f",
+          "text": "वादादीनां लक्षणम्"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "e652b916-7988-41d1-bf67-11732adde245",
+              "text": "तत्त्वनिर्णयमुद्दिश्य केवलं गुरुशिष्ययोः॥ २॥"
+            },
+            {
+              "id": "4c6fd538-6285-4696-b4dc-a39613443755",
+              "text": "कथाऽन्येषामपि सतां वादो वा समितेः शुभा।"
+            },
+            {
+              "id": "42683a39-94da-4d09-af2c-ffd3b6d6c825",
+              "text": "ख्यात्याद्यर्थं स्पर्धया वा सतां जल्प इतीर्यते॥ ३॥"
+            },
+            {
+              "id": "c88bc8a7-ba72-47db-8b01-7c829ed22557",
+              "text": "वितण्डा तु सतामन्यैस्तत्त्वमेषु"
+            },
+            {
+              "id": "0554953e-72df-4e04-988c-c00b9ce1f4c8",
+              "text": "निगूहितम्।",
+              "bg_patha": "“निगूहितुम्”",
+              "trk_patha": "“निगूहितम्”",
+              "footnote": "‘निगूहितं कर्तव्यम्’ इति टीका।"
+            },
+            {
+              "id": "2a789877-e87e-4ce9-bb4d-04f0fecb9817",
+              "text": "-",
+              "bg_patha": "“विद्यापरीक्षापूर्वैव वितण्डा जल्प एव च”",
+              "trk_patha": "“-”",
+              "footnote": "अनुव्याख्यानगतानीमानि श्लोकान्यत्र तत्र च पठ्यन्ते प्राचीनकोशे इति गोविन्दाचार्याः। कृपाठे त्वत्र न पठ्यन्ते। न व्याख्यातानि चेमानि श्लोकान्यत्र प्राचीनटीकायां टीकायां वा। व्याख्यातानि च सर्वैरनुव्याख्याने।"
+            },
+            {
+              "id": "a681f112-8f5b-4756-9c4e-c3f2f4e3c9fd",
+              "text": "-",
+              "bg_patha": "“उच्चनीचत्वनिर्णीतिर्यतो जयपराजयौ॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "bf2fb705-6abc-4414-9936-5b0142d32560",
+              "text": "-",
+              "bg_patha": "“विनैव तत्वनिर्णीतिं नहि जल्पादिना क्वचित्”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "99cc1259-fee5-4a5e-b9a4-d9d3be4178d3",
+              "text": "-",
+              "bg_patha": "“उच्चनीचत्वविज्ञानमिति विद्यापरीक्षणम्॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "d3289773-a99d-44f6-97b2-fd95137cb0e0",
+              "text": "-",
+              "bg_patha": "“वादेन चोच्चनीचत्वविज्ञानं भवति स्फुटम्”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "f8b72c1c-2b16-430f-96b4-de3c734c09ce",
+              "text": "-",
+              "bg_patha": "“इति वादस्य पूर्वत्वं तत्सिद्धौ व्यर्थताऽन्ययोः॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "2337b016-049f-43c7-8edc-5e377f38363b",
+              "text": "-",
+              "bg_patha": "“बहुविद्यत्वसिद्धौ तु नैव वादोऽपि कारणम्”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "ea57e63a-69d9-48d7-aff3-18bd1be9042c",
+              "text": "-",
+              "bg_patha": "“सभासभापप्राश्नीकपूर्वस्तु स्पर्धिनामपि॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "fb032481-f6e8-472d-ba3c-e1d9164ae3eb",
+              "text": "-",
+              "bg_patha": "“वाद एवोभयार्थः स्यान्निर्णीतिजयकारकः”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "5fc880d1-5635-4cc9-82ae-020a9b8ed783",
+              "text": "-",
+              "bg_patha": "“तत्वाप्रकाश एवैको वितण्डाजल्पयोः फलम्॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "13f0b4b3-4af0-4fff-a694-d5d8cfe2a730",
+              "text": "-",
+              "bg_patha": "“विना वादेन विद्याया यदि शक्यं परीक्षणम्”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "aacecadf-a43c-48b7-8af1-62b9b63b3d73",
+              "text": "-",
+              "bg_patha": "“स्याज्जल्पादिरपि क्वापि वाद एवान्यथा भवेत्॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "91fe206d-8bde-44cf-9e67-3d97299577a7",
+              "text": "-",
+              "bg_patha": "“जल्प इत्यपि नाम स्याद् वादस्यैतादृशस्य तु”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "a5a81bb2-08ca-4283-bd2f-911c4e792074",
+              "text": "-",
+              "bg_patha": "“प्रतिज्ञामात्रसाध्यत्वमपि स्याद् याज्ञवल्क्यवत्॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "a07173a8-bb40-4e35-a315-92d746ef3287",
+              "text": "-",
+              "bg_patha": "“संवादे वादिनोः क्वापि विवादे हेतुरिष्यते”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "95e7c916-a2bf-46fb-98c7-da4350e88a17",
+              "text": "-",
+              "bg_patha": "“सभा सभापतिश्चैव प्राश्निकाश्चैव वैष्णवाः॥ *”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "f01e6eb9-a414-4619-8893-c8a1fe923ca2",
+              "text": "-",
+              "bg_patha": "“रागद्वेषविहीनाश्च स्युः सभ्याः सर्ववेदिनः”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "67b7f1ea-06b9-4f59-9f0a-7b112189743f",
+              "text": "-",
+              "bg_patha": "“प्राश्निकाश्चैतदज्ञाने सभ्याश्चैषां च दूरगाः”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "fb3c468f-2488-4fc9-97ad-b276cd0c10db",
+              "text": "-",
+              "bg_patha": "“प्रमाणं निर्णयाय स्युः पक्षपातविवर्जिताः॥ *”",
+              "trk_patha": "“-”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "8df4e98c-3e7c-4823-a2bc-228f6369855b",
+          "text": "प्राश्निकविचारः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "86d5015a-97ce-4796-9699-d973c40135df",
+              "text": "स्वयं वा प्राश्निकैर्वादे चिन्तयेत् तत्त्वनिर्णयम्॥ ४॥"
+            },
+            {
+              "id": "5b5e4430-76e7-4011-b5b6-f1b111ad677e",
+              "text": "रागद्वेषविहीनास्तु सर्वविद्याविशारदाः।"
+            },
+            {
+              "id": "a19a4baf-8caf-4f7a-bd14-5911b3bd3512",
+              "text": "प्राश्निका इति"
+            },
+            {
+              "id": "53d8300b-e2e0-4df1-a94f-eb93342ed121",
+              "text": "विज्ञेया",
+              "bg_patha": "“सम्प्रोक्ता”",
+              "trk_patha": "“विज्ञेया”"
+            },
+            {
+              "id": "89f73818-0328-4f80-a0dd-1bb668a7ea58",
+              "text": "विषमा एक एव वा॥ ५॥"
+            },
+            {
+              "id": "06119e36-edba-42d4-9484-fa17601f438c",
+              "text": "अशेषसंशयच्छेत्ता निःसंशय उदारधीः।"
+            },
+            {
+              "id": "a7df167a-9a0b-4298-a54f-950f827e408c",
+              "text": "एकश्चेत् प्राश्निको ज्ञेयस्सर्वदोषविवर्जितः॥ ६॥"
+            },
+            {
+              "id": "6b139c96-17a4-4c37-89f0-ae9aa3db92a0",
+              "text": "एको वा बहवो वा स्युर्विष्णुभक्तिपराः सदा।"
+            },
+            {
+              "id": "74553b1d-c857-4855-9d7c-3e700e978741",
+              "text": "विष्णुभक्तिर्हि सर्वेषां सद्गुणानां स्वलक्षणम्॥ ७॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "0dd7dc16-f724-4eb7-b5c3-3555b20c6062",
+          "text": "वादादीनां प्रवृत्तिप्रकारः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "5a3c5146-5719-4e93-a08c-8339ed92848b",
+              "text": "-",
+              "bg_patha": "“परीक्ष्य विद्यां समयोर्वितण्डा जल्प एव च”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "bf320677-0e3d-44e7-b76b-8275bc3c7f89",
+              "text": "पृष्टेनागम एवादौ वक्तव्यः साध्यसिद्धये।"
+            }
+          ]
+        },
+        {
+          "pramana": true,
+          "children": [
+            {
+              "padya": true,
+              "children": [
+                {
+                  "id": "00111377-6c14-4148-a693-38623f171d6c",
+                  "text": "‘नैषा तर्केणापनेया मतिः’",
+                  "kutra": "काठकोपनिषदि १/२/९",
+                  "reference": "c5092aff-675b-4e5d-8da6-55fba3c99601"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "3eee932a-b703-4ae3-b983-3a533037deef",
+              "text": "इत्याह हि श्रुतिः॥  ८॥"
+            },
+            {
+              "id": "39aa0019-299a-45bc-8989-73761c43b944",
+              "text": "अन्यार्थ एवागमस्य वक्तव्यः प्रतिवादिना।"
+            },
+            {
+              "id": "ce2910cd-c4eb-4aee-8c3e-697c126ed29e",
+              "text": "ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्",
+              "bg_patha": "“ऋग्यजुःसामाथर्वाः सपञ्चरात्रं च भारतम्”",
+              "trk_patha": "“ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्”"
+            },
+            {
+              "id": "fb5e8388-7081-48e3-a97c-73e68eb6f66e",
+              "text": "॥ ९॥"
+            },
+            {
+              "id": "b786672a-0bcf-4d28-831a-24784db1d9bc",
+              "text": "मूलरामायणं चैव सम्प्रोच्यन्ते सदागमाः।"
+            },
+            {
+              "id": "bbca655f-5078-4b3a-bfbe-8466a94c6faa",
+              "text": "अनुकूला य एतेषां ते च प्रोक्ताः सदागमाः॥ १०॥"
+            },
+            {
+              "id": "6d04f1b6-7ab8-4bfa-acac-5042dc0de16b",
+              "text": "अन्ये दुरागमा नाम तैर्न साध्यं हि साध्यते।"
+            },
+            {
+              "id": "c90fb9b5-4b2a-4ddb-a333-39ca881ca4d3",
+              "text": "स्वपक्ष आगमश्चैव वक्तव्यः प्रतिवादिना॥ ११॥"
+            },
+            {
+              "id": "c250db42-bd30-4bf9-b9fd-7935cbb5c637",
+              "text": "तस्याप्यन्यार्थता साध्या वादिना स्वार्थसिद्धये।"
+            },
+            {
+              "id": "0b1aa255-b0df-4d2f-bb0c-b042d8277d55",
+              "text": "अन्यार्थता निराकार्या स्वागमस्य विनिश्चयात्॥ १२॥"
+            },
+            {
+              "id": "9ed39d24-3252-4405-b6b3-64edef55d1c5",
+              "text": "उपपत्त्यवकाशोऽत्र ह्यागमार्थविनिर्णये।"
+            },
+            {
+              "id": "b3a2d376-9c3c-4f81-864a-31c2edc410c3",
+              "text": "वाद्यागमार्थे निर्णीत आगमार्थः परस्य तु॥ १३॥"
+            },
+            {
+              "id": "8af08f57-c6a1-436b-bd16-544ec8473220",
+              "text": "निर्णेयः"
+            },
+            {
+              "id": "bd9af76e-5396-445a-938f-b835a3ad16aa",
+              "text": "सहितैः",
+              "bg_patha": "“सहितः”",
+              "trk_patha": "“सहितैः”",
+              "footnote": "‘सहितैः सुहृद्भावेन सङ्गतैः’ इति टीका।"
+            },
+            {
+              "id": "622bb8a7-878a-4970-b5b0-1c591c15add1",
+              "text": "पश्चात् ततो निःशेषनिर्णयः।"
+            },
+            {
+              "id": "bbcf4505-e89f-456d-ad24-9d872d613960",
+              "text": "प्रत्यक्षसिद्धेष्वर्थेषु प्रश्ने मामक्षजं वदेत्॥ १४॥"
+            },
+            {
+              "id": "8d38c01c-d6e6-4782-899f-58a38d0eaaa2",
+              "text": "ज्ञानं वा ज्ञानसिद्धेषु नानुमां प्रथमं वदेत्।"
+            },
+            {
+              "id": "f8ffeedb-37b5-481e-9a1e-31786ecded95",
+              "text": "परतुष्टिकरं वाक्यं वदेतां यदि वादिनौ॥ १५॥"
+            },
+            {
+              "id": "ea865c8b-e856-4dd9-9b57-592014611bfb",
+              "text": "स एवात्रागमो ज्ञेयः परतुष्टिर्हि तत्फलम्।"
+            },
+            {
+              "id": "fa790e6a-4830-45ae-8b1d-0eb827d8035c",
+              "text": "एवं निर्णयपर्यन्तं वादे सुबहवोऽपि हि॥ १६॥"
+            },
+            {
+              "id": "b2d39c8f-ddf1-4f52-8bbe-9e86e3534114",
+              "text": "घटेयुश्चिरकालं च जल्पे यावत् परो जितः।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "cbc23087-af47-415e-a35a-b61c6ea2f27a",
+          "text": "वादादिषु पराजयादिविचारः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "9a1da634-9428-49cd-a9ca-1289dd6d5c4f",
+              "text": "तत्त्वनिर्णयवैलोम्यं वादे साक्षात् पराजयः॥ १७॥"
+            },
+            {
+              "id": "400c3089-6304-41f8-8426-a6c13d466891",
+              "text": "संवादे श्लाघ्यतैव स्याद् गुरुत्वमितरस्य च।"
+            },
+            {
+              "id": "920961e1-b922-4aaa-9e8a-c2c0c36d49e7",
+              "text": "तत्त्वनिर्णयवैलोम्ये निन्द्यो दण्ड्योऽथवा भवेत्॥ १८॥"
+            },
+            {
+              "id": "a962514b-1d99-45a9-81c8-3c6fcf90f772",
+              "text": "विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः।",
+              "bg_patha": "“विरोधासङ्गतिन्यूनतूष्णीम्भावाधिकैर्जितः”",
+              "trk_patha": "“विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः”"
+            },
+            {
+              "id": "974d3f18-e5e5-42c5-9c33-5d9f805ea1bd",
+              "text": "भवेज्जल्पे"
+            }
+          ]
+        },
+        {
+          "id": "b81e376b-2256-4e51-9cb0-72a757a0e478",
+          "text": "वितण्डायां",
+          "bg_patha": "“वितण्डाया”",
+          "trk_patha": "“वितण्डायां”",
+          "pathanatara": "‘जल्पवितण्डायाः’ इति प्रमादः प्राचीनकोशे इति गोविन्दाचार्याः।"
+        },
+        {
+          "id": "aa9f38b1-966c-4595-80eb-311e4ef485c7",
+          "text": "न्यायो जल्पवदीरितः॥ १९॥"
+        },
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "0d14f82d-af8c-48a3-b7e1-e55e0bf8d1e5",
+              "text": "संवादे दण्ड्यता न स्याद् वितण्डजल्पयोरपि।"
+            },
+            {
+              "id": "46414d80-7332-4255-b002-c418652c4271",
+              "text": "पराजितत्वमात्रं स्यान्निन्द्यो दण्ड्योऽपि वाऽन्यथा॥ २०॥"
+            },
+            {
+              "id": "3aa4ca2a-f8e2-4640-b17f-7e2b4259cc12",
+              "text": "अनुवादादिराहित्यं नैव जल्पेपि दूषणम्।"
+            },
+            {
+              "id": "d5c59604-7540-4b4d-a161-d067d71d2a7a",
+              "text": "विद्याहीनत्वलिङ्गेऽपि वादिनोः स्यात् पराजयः॥ २१॥"
+            },
+            {
+              "id": "d01a9681-15f6-49b3-bfa6-f27a31370b1d",
+              "text": "तदभावान्नैव षट्कादन्यो निग्रह इष्यते।"
+            },
+            {
+              "id": "384c2ccc-2490-4c12-be85-da396b5013ab",
+              "text": "अन्तर्भावादिहान्येषां निग्रहाणामिति स्म ह॥ २२॥"
+            },
+            {
+              "id": "807000ab-eaa3-48aa-900b-52ec02c34a2e",
+              "text": "विद्यापरीक्षापूर्वैव वृत्तिर्जल्पवितण्डयोः।"
+            },
+            {
+              "id": "6c121545-9c31-41b2-9543-770e6ec028e6",
+              "text": "स्खलितत्वादिमात्रेण न तत्रापि पराजयः॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "3c2c6c1a-597c-4932-99a6-c94687595986",
+          "text": "उपसंहारः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "653938e6-4b1b-4893-9259-5e0fb930bd12",
+              "text": "वादजल्पवितण्डानामिति शुद्धं स्वलक्षणम्॥ २३॥"
+            },
+            {
+              "id": "912938d4-5110-4490-9305-b7e8d9607a6c",
+              "text": "आनन्दतीर्थमुनिना ब्रह्मतर्कानुसारतः।"
+            },
+            {
+              "id": "fa2b98ff-b714-4c8a-b4f6-c37adb2d3c24",
+              "text": "कथालक्षणमित्युक्तं प्रीत्यर्थं शार्ङ्गधन्वनः॥ २४॥"
+            },
+            {
+              "id": "b9c5ef1b-fbbb-4ad1-985f-28a12e4794d9",
+              "text": "सदोदितामितज्ञानपूरवारितहृत्तमाः।"
+            },
+            {
+              "id": "f8257b36-234c-497a-8b6b-e484aa8caa90",
+              "text": "नरसिंहः प्रियतमः प्रीयतां पुरुषोत्तमः॥ २५॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Sarvamula",
+      "children": [
+        {
+          "id": "5cbcd311-4e7e-4120-877e-420c7884f489",
+          "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्॥",
+          "bg_patha": "“॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं वादलक्षणं सम्पूर्णम्”",
+          "trk_patha": "“॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्”"
+        }
+      ]
+    }
+  ],
+  "content_flat": {
+    "17ef0324-1af8-4790-b658-88beda7ed00a": {
+      "text": "देवतानमस्कारपूर्वकं विवक्षितनिर्देशः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "7ad1e75b-35ac-4910-8c98-a2672488c496": {
+      "text": "ॐ॥ नृसिंहमखिलाज्ञानतिमिराशिशिराद्युतिम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b5107a4a-8bfe-4321-a1a8-e8dfc0b8bb90": {
+      "text": "सम्प्रणम्य प्रवक्ष्यामि कथालक्षणमञ्जसा॥ १॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "af347ca8-0e64-4708-a931-79ec91b3a735": {
+      "text": "कथासामान्यलक्षणम्, तद्विभागश्च",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "e4ac6e41-0988-41f8-aa9d-9d9ba21ed3c0": {
+      "text": "वादो जल्पो वितण्डेति त्रिविधा विदुषां कथा।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "c866986a-e0d3-4248-8ac4-70c30e3f291f": {
+      "text": "वादादीनां लक्षणम्",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "e652b916-7988-41d1-bf67-11732adde245": {
+      "text": "तत्त्वनिर्णयमुद्दिश्य केवलं गुरुशिष्ययोः॥ २॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "4c6fd538-6285-4696-b4dc-a39613443755": {
+      "text": "कथाऽन्येषामपि सतां वादो वा समितेः शुभा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "42683a39-94da-4d09-af2c-ffd3b6d6c825": {
+      "text": "ख्यात्याद्यर्थं स्पर्धया वा सतां जल्प इतीर्यते॥ ३॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "c88bc8a7-ba72-47db-8b01-7c829ed22557": {
+      "text": "वितण्डा तु सतामन्यैस्तत्त्वमेषु",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "0554953e-72df-4e04-988c-c00b9ce1f4c8": {
+      "text": "निगूहितम्।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "‘निगूहितं कर्तव्यम्’ इति टीका।",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“निगूहितुम्”",
+        "trk_patha": "“निगूहितम्”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "2a789877-e87e-4ce9-bb4d-04f0fecb9817": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "अनुव्याख्यानगतानीमानि श्लोकान्यत्र तत्र च पठ्यन्ते प्राचीनकोशे इति गोविन्दाचार्याः। कृपाठे त्वत्र न पठ्यन्ते। न व्याख्यातानि चेमानि श्लोकान्यत्र प्राचीनटीकायां टीकायां वा। व्याख्यातानि च सर्वैरनुव्याख्याने।",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“विद्यापरीक्षापूर्वैव वितण्डा जल्प एव च”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a681f112-8f5b-4756-9c4e-c3f2f4e3c9fd": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“उच्चनीचत्वनिर्णीतिर्यतो जयपराजयौ॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "bf2fb705-6abc-4414-9936-5b0142d32560": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“विनैव तत्वनिर्णीतिं नहि जल्पादिना क्वचित्”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "99cc1259-fee5-4a5e-b9a4-d9d3be4178d3": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“उच्चनीचत्वविज्ञानमिति विद्यापरीक्षणम्॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "d3289773-a99d-44f6-97b2-fd95137cb0e0": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“वादेन चोच्चनीचत्वविज्ञानं भवति स्फुटम्”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "f8b72c1c-2b16-430f-96b4-de3c734c09ce": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“इति वादस्य पूर्वत्वं तत्सिद्धौ व्यर्थताऽन्ययोः॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "2337b016-049f-43c7-8edc-5e377f38363b": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“बहुविद्यत्वसिद्धौ तु नैव वादोऽपि कारणम्”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "ea57e63a-69d9-48d7-aff3-18bd1be9042c": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“सभासभापप्राश्नीकपूर्वस्तु स्पर्धिनामपि॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "fb032481-f6e8-472d-ba3c-e1d9164ae3eb": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“वाद एवोभयार्थः स्यान्निर्णीतिजयकारकः”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5fc880d1-5635-4cc9-82ae-020a9b8ed783": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“तत्वाप्रकाश एवैको वितण्डाजल्पयोः फलम्॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "13f0b4b3-4af0-4fff-a694-d5d8cfe2a730": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“विना वादेन विद्याया यदि शक्यं परीक्षणम्”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "aacecadf-a43c-48b7-8af1-62b9b63b3d73": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“स्याज्जल्पादिरपि क्वापि वाद एवान्यथा भवेत्॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "91fe206d-8bde-44cf-9e67-3d97299577a7": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“जल्प इत्यपि नाम स्याद् वादस्यैतादृशस्य तु”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a5a81bb2-08ca-4283-bd2f-911c4e792074": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“प्रतिज्ञामात्रसाध्यत्वमपि स्याद् याज्ञवल्क्यवत्॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a07173a8-bb40-4e35-a315-92d746ef3287": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“संवादे वादिनोः क्वापि विवादे हेतुरिष्यते”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "95e7c916-a2bf-46fb-98c7-da4350e88a17": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“सभा सभापतिश्चैव प्राश्निकाश्चैव वैष्णवाः॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "f01e6eb9-a414-4619-8893-c8a1fe923ca2": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“रागद्वेषविहीनाश्च स्युः सभ्याः सर्ववेदिनः”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "67b7f1ea-06b9-4f59-9f0a-7b112189743f": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“प्राश्निकाश्चैतदज्ञाने सभ्याश्चैषां च दूरगाः”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "fb3c468f-2488-4fc9-97ad-b276cd0c10db": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“प्रमाणं निर्णयाय स्युः पक्षपातविवर्जिताः॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "8df4e98c-3e7c-4823-a2bc-228f6369855b": {
+      "text": "प्राश्निकविचारः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "86d5015a-97ce-4796-9699-d973c40135df": {
+      "text": "स्वयं वा प्राश्निकैर्वादे चिन्तयेत् तत्त्वनिर्णयम्॥ ४॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5b5e4430-76e7-4011-b5b6-f1b111ad677e": {
+      "text": "रागद्वेषविहीनास्तु सर्वविद्याविशारदाः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a19a4baf-8caf-4f7a-bd14-5911b3bd3512": {
+      "text": "प्राश्निका इति",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "53d8300b-e2e0-4df1-a94f-eb93342ed121": {
+      "text": "विज्ञेया",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“सम्प्रोक्ता”",
+        "trk_patha": "“विज्ञेया”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "89f73818-0328-4f80-a0dd-1bb668a7ea58": {
+      "text": "विषमा एक एव वा॥ ५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "06119e36-edba-42d4-9484-fa17601f438c": {
+      "text": "अशेषसंशयच्छेत्ता निःसंशय उदारधीः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a7df167a-9a0b-4298-a54f-950f827e408c": {
+      "text": "एकश्चेत् प्राश्निको ज्ञेयस्सर्वदोषविवर्जितः॥ ६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "6b139c96-17a4-4c37-89f0-ae9aa3db92a0": {
+      "text": "एको वा बहवो वा स्युर्विष्णुभक्तिपराः सदा।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "74553b1d-c857-4855-9d7c-3e700e978741": {
+      "text": "विष्णुभक्तिर्हि सर्वेषां सद्गुणानां स्वलक्षणम्॥ ७॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "0dd7dc16-f724-4eb7-b5c3-3555b20c6062": {
+      "text": "वादादीनां प्रवृत्तिप्रकारः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5a3c5146-5719-4e93-a08c-8339ed92848b": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“परीक्ष्य विद्यां समयोर्वितण्डा जल्प एव च”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "bf320677-0e3d-44e7-b76b-8275bc3c7f89": {
+      "text": "पृष्टेनागम एवादौ वक्तव्यः साध्यसिद्धये।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "00111377-6c14-4148-a693-38623f171d6c": {
+      "text": "‘नैषा तर्केणापनेया मतिः’",
+      "content_type": "Inherit",
+      "is_pramana": "Yes_p",
+      "is_padya": "Inherit",
+      "kutra": "काठकोपनिषदि १/२/९",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": "c5092aff-675b-4e5d-8da6-55fba3c99601"
+    },
+    "3eee932a-b703-4ae3-b983-3a533037deef": {
+      "text": "इत्याह हि श्रुतिः॥  ८॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "39aa0019-299a-45bc-8989-73761c43b944": {
+      "text": "अन्यार्थ एवागमस्य वक्तव्यः प्रतिवादिना।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "ce2910cd-c4eb-4aee-8c3e-697c126ed29e": {
+      "text": "ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“ऋग्यजुःसामाथर्वाः सपञ्चरात्रं च भारतम्”",
+        "trk_patha": "“ऋग्यजुःसामाथर्वाश्च भारतं पञ्चरात्रकम्”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "fb5e8388-7081-48e3-a97c-73e68eb6f66e": {
+      "text": "॥ ९॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b786672a-0bcf-4d28-831a-24784db1d9bc": {
+      "text": "मूलरामायणं चैव सम्प्रोच्यन्ते सदागमाः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "bbca655f-5078-4b3a-bfbe-8466a94c6faa": {
+      "text": "अनुकूला य एतेषां ते च प्रोक्ताः सदागमाः॥ १०॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "6d04f1b6-7ab8-4bfa-acac-5042dc0de16b": {
+      "text": "अन्ये दुरागमा नाम तैर्न साध्यं हि साध्यते।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "c90fb9b5-4b2a-4ddb-a333-39ca881ca4d3": {
+      "text": "स्वपक्ष आगमश्चैव वक्तव्यः प्रतिवादिना॥ ११॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "c250db42-bd30-4bf9-b9fd-7935cbb5c637": {
+      "text": "तस्याप्यन्यार्थता साध्या वादिना स्वार्थसिद्धये।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "0b1aa255-b0df-4d2f-bb0c-b042d8277d55": {
+      "text": "अन्यार्थता निराकार्या स्वागमस्य विनिश्चयात्॥ १२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "9ed39d24-3252-4405-b6b3-64edef55d1c5": {
+      "text": "उपपत्त्यवकाशोऽत्र ह्यागमार्थविनिर्णये।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b3a2d376-9c3c-4f81-864a-31c2edc410c3": {
+      "text": "वाद्यागमार्थे निर्णीत आगमार्थः परस्य तु॥ १३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "8af08f57-c6a1-436b-bd16-544ec8473220": {
+      "text": "निर्णेयः",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "bd9af76e-5396-445a-938f-b835a3ad16aa": {
+      "text": "सहितैः",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "‘सहितैः सुहृद्भावेन सङ्गतैः’ इति टीका।",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“सहितः”",
+        "trk_patha": "“सहितैः”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "622bb8a7-878a-4970-b5b0-1c591c15add1": {
+      "text": "पश्चात् ततो निःशेषनिर्णयः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "bbcf4505-e89f-456d-ad24-9d872d613960": {
+      "text": "प्रत्यक्षसिद्धेष्वर्थेषु प्रश्ने मामक्षजं वदेत्॥ १४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "8d38c01c-d6e6-4782-899f-58a38d0eaaa2": {
+      "text": "ज्ञानं वा ज्ञानसिद्धेषु नानुमां प्रथमं वदेत्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "f8ffeedb-37b5-481e-9a1e-31786ecded95": {
+      "text": "परतुष्टिकरं वाक्यं वदेतां यदि वादिनौ॥ १५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "ea865c8b-e856-4dd9-9b57-592014611bfb": {
+      "text": "स एवात्रागमो ज्ञेयः परतुष्टिर्हि तत्फलम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "fa790e6a-4830-45ae-8b1d-0eb827d8035c": {
+      "text": "एवं निर्णयपर्यन्तं वादे सुबहवोऽपि हि॥ १६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b2d39c8f-ddf1-4f52-8bbe-9e86e3534114": {
+      "text": "घटेयुश्चिरकालं च जल्पे यावत् परो जितः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "cbc23087-af47-415e-a35a-b61c6ea2f27a": {
+      "text": "वादादिषु पराजयादिविचारः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "9a1da634-9428-49cd-a9ca-1289dd6d5c4f": {
+      "text": "तत्त्वनिर्णयवैलोम्यं वादे साक्षात् पराजयः॥ १७॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "400c3089-6304-41f8-8426-a6c13d466891": {
+      "text": "संवादे श्लाघ्यतैव स्याद् गुरुत्वमितरस्य च।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "920961e1-b922-4aaa-9e8a-c2c0c36d49e7": {
+      "text": "तत्त्वनिर्णयवैलोम्ये निन्द्यो दण्ड्योऽथवा भवेत्॥ १८॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a962514b-1d99-45a9-81c8-3c6fcf90f772": {
+      "text": "विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“विरोधासङ्गतिन्यूनतूष्णीम्भावाधिकैर्जितः”",
+        "trk_patha": "“विरोधासङ्गतिन्यूनतूष्णीम्भावादिकैर्जितः”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "974d3f18-e5e5-42c5-9c33-5d9f805ea1bd": {
+      "text": "भवेज्जल्पे",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b81e376b-2256-4e51-9cb0-72a757a0e478": {
+      "text": "वितण्डायां",
+      "content_type": "",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“वितण्डाया”",
+        "trk_patha": "“वितण्डायां”",
+        "pathanatara": "‘जल्पवितण्डायाः’ इति प्रमादः प्राचीनकोशे इति गोविन्दाचार्याः।"
+      },
+      "reference": ""
+    },
+    "aa9f38b1-966c-4595-80eb-311e4ef485c7": {
+      "text": "न्यायो जल्पवदीरितः॥ १९॥",
+      "content_type": "",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "0d14f82d-af8c-48a3-b7e1-e55e0bf8d1e5": {
+      "text": "संवादे दण्ड्यता न स्याद् वितण्डजल्पयोरपि।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "46414d80-7332-4255-b002-c418652c4271": {
+      "text": "पराजितत्वमात्रं स्यान्निन्द्यो दण्ड्योऽपि वाऽन्यथा॥ २०॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "3aa4ca2a-f8e2-4640-b17f-7e2b4259cc12": {
+      "text": "अनुवादादिराहित्यं नैव जल्पेपि दूषणम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "d5c59604-7540-4b4d-a161-d067d71d2a7a": {
+      "text": "विद्याहीनत्वलिङ्गेऽपि वादिनोः स्यात् पराजयः॥ २१॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "d01a9681-15f6-49b3-bfa6-f27a31370b1d": {
+      "text": "तदभावान्नैव षट्कादन्यो निग्रह इष्यते।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "384c2ccc-2490-4c12-be85-da396b5013ab": {
+      "text": "अन्तर्भावादिहान्येषां निग्रहाणामिति स्म ह॥ २२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "807000ab-eaa3-48aa-900b-52ec02c34a2e": {
+      "text": "विद्यापरीक्षापूर्वैव वृत्तिर्जल्पवितण्डयोः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "6c121545-9c31-41b2-9543-770e6ec028e6": {
+      "text": "स्खलितत्वादिमात्रेण न तत्रापि पराजयः॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "3c2c6c1a-597c-4932-99a6-c94687595986": {
+      "text": "उपसंहारः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "653938e6-4b1b-4893-9259-5e0fb930bd12": {
+      "text": "वादजल्पवितण्डानामिति शुद्धं स्वलक्षणम्॥ २३॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "912938d4-5110-4490-9305-b7e8d9607a6c": {
+      "text": "आनन्दतीर्थमुनिना ब्रह्मतर्कानुसारतः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "fa2b98ff-b714-4c8a-b4f6-c37adb2d3c24": {
+      "text": "कथालक्षणमित्युक्तं प्रीत्यर्थं शार्ङ्गधन्वनः॥ २४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b9c5ef1b-fbbb-4ad1-985f-28a12e4794d9": {
+      "text": "सदोदितामितज्ञानपूरवारितहृत्तमाः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "f8257b36-234c-497a-8b6b-e484aa8caa90": {
+      "text": "नरसिंहः प्रियतमः प्रीयतां पुरुषोत्तमः॥ २५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5cbcd311-4e7e-4120-877e-420c7884f489": {
+      "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्॥",
+      "content_type": "Colophon_Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं वादलक्षणं सम्पूर्णम्”",
+        "trk_patha": "“॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं कथालक्षणं सम्पूर्णम्”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    }
+  }
+}

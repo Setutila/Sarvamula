@@ -1,0 +1,851 @@
+{
+  "title": "pmak",
+  "content": [
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "a9f24f37-07b9-46fd-8c39-ec4680f78c93",
+          "text": "मायावाद्युदितप्रपञ्चमिथ्यात्वानुमानानुवादः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "0d842df6-a011-471a-baf0-640ec9ca4fd1",
+          "text": "ॐ॥ ‘विमतं मिथ्या, दृश्यत्वात्, यदित्थं तत् तथा, यथा सम्प्रतिपन्नम्’"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "1fef2e1e-acdd-4659-abfa-1fa8ce7abb86",
+          "text": "तत्र प्रतिज्ञादोषाः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "2de71284-e350-471e-a11c-fe5269511f1f",
+          "text": "- इत्युक्ते जगतो(ऽ)भावादाश्रयासिद्धः पक्षः।"
+        },
+        {
+          "id": "5c1dde5d-9f54-4e9f-beca-e2c20d5c97b6",
+          "text": "अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः।",
+          "bg_patha": "“अनिर्वचनीयस्यासिद्धेरप्रसिद्धविशेषणः”",
+          "trk_patha": "“अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः”"
+        },
+        {
+          "id": "09320a9b-7305-4035-b8d4-5f0677dc514b",
+          "text": "सदसद्वैलक्षण्ये",
+          "bg_patha": "“असद्वैलक्षण्ये”",
+          "trk_patha": "“सदसद्वैलक्षण्ये”"
+        },
+        {
+          "id": "60e84127-12aa-4414-95df-efcab56358a2",
+          "text": "मिथ्यात्वे सिद्धसाधनता।"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "6674ed50-0860-4a30-b0fd-bbf8624daad1",
+          "text": "हेतुदोषाः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "37204bc0-a02f-4e59-8da3-f3723722a799",
+          "text": "दृश्यत्वाभावादसिद्धो हेतुः।",
+          "bg_patha": "“दृश्यत्वस्याभावादसिद्धो हेतुः”",
+          "trk_patha": "“दृश्यत्वाभावादसिद्धो हेतुः”"
+        },
+        {
+          "id": "a696fed5-3b2b-4e2f-bc80-5e5345f17d95",
+          "text": "अनिर्वचनीयासिद्धेरेव।",
+          "bg_patha": "“-”",
+          "trk_patha": "“अनिर्वचनीयासिद्धेरेव”"
+        },
+        {
+          "id": "232cc0c1-9d5e-4385-8c7a-f02ee676d8fc",
+          "text": "अनिर्वचनीयासिद्धेरेव सपक्षाभावाद्‌ विरुद्धः।"
+        },
+        {
+          "id": "7186840c-9fdb-4d46-a8be-753b0fe964c8",
+          "text": "आत्मनोऽपि दृश्यत्वादनैकान्तिकः।"
+        },
+        {
+          "id": "13f0d82e-a431-433f-9130-ac025349e9f5",
+          "text": "जगतोऽभावेऽनुमानस्याप्यभाव इति तर्कबाधितत्वेनानध्यवसितः।"
+        },
+        {
+          "id": "c735886e-5559-48bb-a7fa-d4d3dcdb43b4",
+          "text": "प्रत्यक्षादिविरुद्धत्वात्,"
+        },
+        {
+          "pramana": true,
+          "children": [
+            {
+              "id": "6b1369e7-844d-46e2-bf14-043ea0885e8b",
+              "text": "“विश्वं सत्यम्”",
+              "kutra": "ऋग्वेदसंहिता २/२४/१२"
+            }
+          ]
+        },
+        {
+          "id": "a10b8fdc-8f25-41a0-a394-c78f560d83ec",
+          "text": "इत्यादिवाक्यविरुद्धत्वाच्च कालात्ययापदिष्टः।"
+        },
+        {
+          "id": "19165c24-b184-42ec-889d-3ab2a6691109",
+          "text": "‘रजतं दृष्टम्’ इति भ्रममात्रत्वात् ‘विमतं सत्यं दृश्यत्वात्, आत्मवत्‌’ इत्यपि प्रयोज्यत्वात् प्रकरणसमः।"
+        },
+        {
+          "id": "dd0c3c6e-9f24-46ef-ad51-913c6465637c",
+          "text": "‘विमतं सत्यम्, प्रमाणदृष्टत्वात्, यदित्थं तत् तथा, यथाऽऽत्मा’ इति प्रयोगात् सप्रतिसाधनः।",
+          "bg_patha": "“विमतं सत्यम्, प्रमाणसिद्धत्वात्, आत्मवत्’ इति प्रयोगात् सप्रतिसाधनः”",
+          "trk_patha": "“विमतं सत्यम्, प्रमाणदृष्टत्वात्, यदित्थं तत् तथा, यथाऽऽत्मा’ इति प्रयोगात् सप्रतिसाधनः”"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "05442cf0-986c-4a90-9cdb-559b1bdc690a",
+          "text": "दृष्टान्तदोषौ"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "912b306e-4b97-4f44-b886-d751f726cdfd",
+          "text": "शुक्तिरजतस्याप्यनिर्वचनीयत्वाभावात् साध्यविकलो दृष्टान्तः।"
+        },
+        {
+          "id": "34055804-de06-48f0-87b5-a477851d3ba5",
+          "text": "उक्तप्रकारेण दृश्यत्वाभावात् साधनविकलश्च।",
+          "pathanatara": "साधनविकल इत्येव क्वचित् सम्पातायातम्।"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "8c3b8c34-502f-47b5-b51f-1ca542a554b3",
+          "text": "उपाधिरूपदोषः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "868923aa-5bfb-4884-8f49-53fd0b262ea2",
+          "text": "प्रमाणविरुद्धत्वमुपाधिः।"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "bbc06d32-1ffc-498f-a3f5-c2e383cddaf7",
+          "text": "पक्षप्रतिज्ञादिदलक्षणम्"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "b414a0da-ce47-4f2d-91c0-c2e236d0937a",
+          "text": "साध्यधर्मविशिष्टः पक्षः।"
+        },
+        {
+          "id": "ad0f8818-9ee9-4b94-98c1-55189bbba943",
+          "text": "साध्यसमानधर्मविशिष्टः सपक्षः।"
+        },
+        {
+          "id": "4b35767d-b389-4bf8-a28d-1851a297852d",
+          "text": "साध्यविपरीतधर्मविशिष्टो विपक्षः।"
+        },
+        {
+          "id": "60ea88bd-ddb6-41d8-aaa8-c60d395ff073",
+          "text": "पक्षवचनं प्रतिज्ञा।"
+        },
+        {
+          "id": "8ee67ac2-ffda-4bb8-9a6f-9a55a1dbf0ef",
+          "text": "लिङ्गं हेतुः।"
+        },
+        {
+          "id": "5a2bad28-f178-4bfe-a7ef-6237b556d330",
+          "text": "निदर्शनं दृष्टान्तः।"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "28889afd-c439-4720-8f2f-d97ec5c5b95c",
+          "text": "अन्तिममङ्गलाचरणम्"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "5d827953-da3a-42a4-849b-8f9048c53aef",
+              "text": "यो"
+            }
+          ]
+        },
+        {
+          "pramana": true,
+          "children": [
+            {
+              "padya": true,
+              "children": [
+                {
+                  "id": "2bf41a14-e1cc-4280-9f89-9757267b0e77",
+                  "text": "‘दृश्यते’",
+                  "kutra": "काठकोपनिषत् १/३/१२",
+                  "reference": "e6d2b554-eead-461f-968d-46c30748cb76"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "cc21e911-abb4-4d5b-9ced-d85f3b9af09e",
+              "text": "सदानन्दनित्यव्यक्तचिदात्मना।",
+              "bg_patha": "“सदानन्दनित्यव्यक्तदृशात्मना”",
+              "trk_patha": "“सदानन्दनित्यव्यक्तचिदात्मना”"
+            },
+            {
+              "id": "7cf91dfe-dd02-4fec-8aad-1b4acdb3fda9",
+              "text": "निर्दोषाखिलकल्याणगुणं वन्दे रमापतिम् ॥ *॥"
+            },
+            {
+              "id": "2fe1e2d6-144c-4b51-a7b3-1bea9b2284a5",
+              "text": "-",
+              "bg_patha": "“सत्यसृष्टिस्थितिलयप्रकाशनियतिप्रदः”",
+              "trk_patha": "“-”"
+            },
+            {
+              "id": "7b1236bf-6864-457c-a425-d22bfb817be7",
+              "text": "-",
+              "bg_patha": "“निखिलज्ञोऽज्ञजनतानियन्ता यो हरिं नुमः॥ *”",
+              "trk_patha": "“-”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Sarvamula",
+      "children": [
+        {
+          "id": "7797a468-4c78-4dc4-9304-ecb3d008f739",
+          "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्॥",
+          "bg_patha": "“॥ इति मिथ्यात्वानुमानदूषणं सम्पूर्णम्”",
+          "trk_patha": "“॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्”"
+        }
+      ]
+    }
+  ],
+  "content_flat": {
+    "a9f24f37-07b9-46fd-8c39-ec4680f78c93": {
+      "text": "मायावाद्युदितप्रपञ्चमिथ्यात्वानुमानानुवादः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "0d842df6-a011-471a-baf0-640ec9ca4fd1": {
+      "text": "ॐ॥ ‘विमतं मिथ्या, दृश्यत्वात्, यदित्थं तत् तथा, यथा सम्प्रतिपन्नम्’",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "1fef2e1e-acdd-4659-abfa-1fa8ce7abb86": {
+      "text": "तत्र प्रतिज्ञादोषाः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "2de71284-e350-471e-a11c-fe5269511f1f": {
+      "text": "- इत्युक्ते जगतो(ऽ)भावादाश्रयासिद्धः पक्षः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5c1dde5d-9f54-4e9f-beca-e2c20d5c97b6": {
+      "text": "अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“अनिर्वचनीयस्यासिद्धेरप्रसिद्धविशेषणः”",
+        "trk_patha": "“अनिर्वचनीयासिद्धेरप्रसिद्धविशेषणः”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "09320a9b-7305-4035-b8d4-5f0677dc514b": {
+      "text": "सदसद्वैलक्षण्ये",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“असद्वैलक्षण्ये”",
+        "trk_patha": "“सदसद्वैलक्षण्ये”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "60e84127-12aa-4414-95df-efcab56358a2": {
+      "text": "मिथ्यात्वे सिद्धसाधनता।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "6674ed50-0860-4a30-b0fd-bbf8624daad1": {
+      "text": "हेतुदोषाः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "37204bc0-a02f-4e59-8da3-f3723722a799": {
+      "text": "दृश्यत्वाभावादसिद्धो हेतुः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“दृश्यत्वस्याभावादसिद्धो हेतुः”",
+        "trk_patha": "“दृश्यत्वाभावादसिद्धो हेतुः”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a696fed5-3b2b-4e2f-bc80-5e5345f17d95": {
+      "text": "अनिर्वचनीयासिद्धेरेव।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“-”",
+        "trk_patha": "“अनिर्वचनीयासिद्धेरेव”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "232cc0c1-9d5e-4385-8c7a-f02ee676d8fc": {
+      "text": "अनिर्वचनीयासिद्धेरेव सपक्षाभावाद्‌ विरुद्धः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "7186840c-9fdb-4d46-a8be-753b0fe964c8": {
+      "text": "आत्मनोऽपि दृश्यत्वादनैकान्तिकः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "13f0d82e-a431-433f-9130-ac025349e9f5": {
+      "text": "जगतोऽभावेऽनुमानस्याप्यभाव इति तर्कबाधितत्वेनानध्यवसितः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "c735886e-5559-48bb-a7fa-d4d3dcdb43b4": {
+      "text": "प्रत्यक्षादिविरुद्धत्वात्,",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "6b1369e7-844d-46e2-bf14-043ea0885e8b": {
+      "text": "“विश्वं सत्यम्”",
+      "content_type": "Inherit",
+      "is_pramana": "Yes",
+      "is_padya": "",
+      "kutra": "ऋग्वेदसंहिता २/२४/१२",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "a10b8fdc-8f25-41a0-a394-c78f560d83ec": {
+      "text": "इत्यादिवाक्यविरुद्धत्वाच्च कालात्ययापदिष्टः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "19165c24-b184-42ec-889d-3ab2a6691109": {
+      "text": "‘रजतं दृष्टम्’ इति भ्रममात्रत्वात् ‘विमतं सत्यं दृश्यत्वात्, आत्मवत्‌’ इत्यपि प्रयोज्यत्वात् प्रकरणसमः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "dd0c3c6e-9f24-46ef-ad51-913c6465637c": {
+      "text": "‘विमतं सत्यम्, प्रमाणदृष्टत्वात्, यदित्थं तत् तथा, यथाऽऽत्मा’ इति प्रयोगात् सप्रतिसाधनः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“विमतं सत्यम्, प्रमाणसिद्धत्वात्, आत्मवत्’ इति प्रयोगात् सप्रतिसाधनः”",
+        "trk_patha": "“विमतं सत्यम्, प्रमाणदृष्टत्वात्, यदित्थं तत् तथा, यथाऽऽत्मा’ इति प्रयोगात् सप्रतिसाधनः”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "05442cf0-986c-4a90-9cdb-559b1bdc690a": {
+      "text": "दृष्टान्तदोषौ",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "912b306e-4b97-4f44-b886-d751f726cdfd": {
+      "text": "शुक्तिरजतस्याप्यनिर्वचनीयत्वाभावात् साध्यविकलो दृष्टान्तः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "34055804-de06-48f0-87b5-a477851d3ba5": {
+      "text": "उक्तप्रकारेण दृश्यत्वाभावात् साधनविकलश्च।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "साधनविकल इत्येव क्वचित् सम्पातायातम्।"
+      },
+      "reference": ""
+    },
+    "8c3b8c34-502f-47b5-b51f-1ca542a554b3": {
+      "text": "उपाधिरूपदोषः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "868923aa-5bfb-4884-8f49-53fd0b262ea2": {
+      "text": "प्रमाणविरुद्धत्वमुपाधिः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "bbc06d32-1ffc-498f-a3f5-c2e383cddaf7": {
+      "text": "पक्षप्रतिज्ञादिदलक्षणम्",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "b414a0da-ce47-4f2d-91c0-c2e236d0937a": {
+      "text": "साध्यधर्मविशिष्टः पक्षः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "ad0f8818-9ee9-4b94-98c1-55189bbba943": {
+      "text": "साध्यसमानधर्मविशिष्टः सपक्षः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "4b35767d-b389-4bf8-a28d-1851a297852d": {
+      "text": "साध्यविपरीतधर्मविशिष्टो विपक्षः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "60ea88bd-ddb6-41d8-aaa8-c60d395ff073": {
+      "text": "पक्षवचनं प्रतिज्ञा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "8ee67ac2-ffda-4bb8-9a6f-9a55a1dbf0ef": {
+      "text": "लिङ्गं हेतुः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5a2bad28-f178-4bfe-a7ef-6237b556d330": {
+      "text": "निदर्शनं दृष्टान्तः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "28889afd-c439-4720-8f2f-d97ec5c5b95c": {
+      "text": "अन्तिममङ्गलाचरणम्",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "5d827953-da3a-42a4-849b-8f9048c53aef": {
+      "text": "यो",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "2bf41a14-e1cc-4280-9f89-9757267b0e77": {
+      "text": "‘दृश्यते’",
+      "content_type": "Inherit",
+      "is_pramana": "Yes_p",
+      "is_padya": "Inline",
+      "kutra": "काठकोपनिषत् १/३/१२",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": "e6d2b554-eead-461f-968d-46c30748cb76"
+    },
+    "cc21e911-abb4-4d5b-9ced-d85f3b9af09e": {
+      "text": "सदानन्दनित्यव्यक्तचिदात्मना।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“सदानन्दनित्यव्यक्तदृशात्मना”",
+        "trk_patha": "“सदानन्दनित्यव्यक्तचिदात्मना”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "7cf91dfe-dd02-4fec-8aad-1b4acdb3fda9": {
+      "text": "निर्दोषाखिलकल्याणगुणं वन्दे रमापतिम् ॥ *॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "2fe1e2d6-144c-4b51-a7b3-1bea9b2284a5": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“सत्यसृष्टिस्थितिलयप्रकाशनियतिप्रदः”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "7b1236bf-6864-457c-a425-d22bfb817be7": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“निखिलज्ञोऽज्ञजनतानियन्ता यो हरिं नुमः॥ *”",
+        "trk_patha": "“-”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    },
+    "7797a468-4c78-4dc4-9304-ecb3d008f739": {
+      "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्॥",
+      "content_type": "Colophon_Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "“॥ इति मिथ्यात्वानुमानदूषणं सम्पूर्णम्”",
+        "trk_patha": "“॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं प्रपञ्चमिथ्यात्वानुमानखण्डनं सम्पूर्णम्”",
+        "pathanatara": ""
+      },
+      "reference": ""
+    }
+  }
+}
