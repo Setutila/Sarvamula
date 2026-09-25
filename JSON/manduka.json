@@ -1,0 +1,2769 @@
+{
+  "title": "माण्डूकोपनिषत्",
+  "content": [
+    {
+      "content_type": "Heading0",
+      "children": [
+        {
+          "id": "9b9c30df-28fd-498f-836f-88e86ca63301",
+          "text": "उपोद्घातः"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "e89198d1-960e-4898-b39f-ff28338a138e",
+          "text": "ॐ भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः।"
+        },
+        {
+          "id": "6a59ab23-7ab0-4330-af28-97da734a2812",
+          "text": "स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायु॑:॥"
+        },
+        {
+          "id": "cc05a543-0f20-44bf-961f-5dab5fadbcdf",
+          "text": "स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति न॑: पू॒षा वि॒श्ववे॑दाः।"
+        },
+        {
+          "id": "445d8d9b-8c4d-476a-8094-7cbd053bd4a9",
+          "text": "स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु॥"
+        },
+        {
+          "id": "2c33ca78-cc10-46d2-b733-5abca471d6f5",
+          "text": "ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "50903c25-c9dd-4dae-a893-ce1fbbfa6e1f",
+          "text": "प्रथमः खण्डः"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "e1d6ba81-ddc6-4219-bd49-0e9810a3bb39",
+          "text": "ओमित्येदक्षरमिदं सर्वम्।"
+        },
+        {
+          "id": "23ee55b2-f902-4665-b049-2a73f30db225",
+          "text": "तस्योपव्याख्यानं भूतं भवद् भविष्यदिति॥ १/१॥"
+        },
+        {
+          "id": "268db917-b65c-4ffd-9d8e-e7b6acda614e",
+          "text": "सर्वमोङ्कार एव।"
+        },
+        {
+          "id": "920792b0-45d0-45d2-8a1e-4f021e6b57ce",
+          "text": "यच्चान्यत् त्रिकालातीतं तदप्योङ्कार एव।"
+        },
+        {
+          "id": "f9ce065f-3e86-4edc-8abd-82f0b12c26a7",
+          "text": "सर्वं ह्येतद् ब्रह्म।"
+        },
+        {
+          "id": "3852e81c-2fcd-4a35-a717-ba37e20fbb6d",
+          "text": "अयमात्मा ब्रह्म॥ १/२॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "b59f1d22-180b-4d4a-8a7a-d40fb1ae8962",
+          "text": "सोऽयमात्मा चतुष्पात्।"
+        },
+        {
+          "id": "d1b5a433-badf-4d1a-bd7a-36602a3267be",
+          "text": "जागरितस्थानो बहिःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग् वैश्वानरः प्रथमः पादः॥ १/३॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "2c426f50-0ccf-4b6c-bf19-430cb383b785",
+          "text": "स्वप्नस्थानोऽन्तप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक् तैजसो द्वितीयः पादः॥१/४॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "b0b1c1fe-45ed-4222-bd19-49cbdc20cf91",
+          "text": "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम्।"
+        },
+        {
+          "id": "d3d41871-8125-4e5f-a990-cde7d40d95f7",
+          "text": "सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः॥१/५॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "72fdce5f-c506-4522-909a-06dd5d1a2a4d",
+              "text": "एष सर्वेश्वरः एष सर्वज्ञः एषोऽन्तर्यामी।"
+            },
+            {
+              "id": "a2683bf6-f06b-46c2-a772-87d6c59f485e",
+              "text": "एष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम्॥ १/६॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "493e036b-abd0-448a-8a76-fc674576558a",
+              "text": "अत्रैते श्लोका भवन्ति-"
+            },
+            {
+              "id": "de72298b-1f5c-4f78-bb5e-d5585f1c0e7f",
+              "text": "बहिःप्रज्ञो विभुर्विश्वो ह्यन्तःप्रज्ञस्तु तैजसः।"
+            },
+            {
+              "id": "c68d6fa7-e905-4d71-b16b-a90201de36e8",
+              "text": "घनप्रज्ञस्तथा प्राज्ञ एक एव त्रिधा स्मृतः॥ १/७॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "f8230b26-397c-4bfd-a038-8c0ab3ca80fe",
+              "text": "दक्षिणाक्षिमुखे विश्वो मनस्यन्तस्तु तैजसः।"
+            },
+            {
+              "id": "fa04fadc-a334-410d-a9c1-95d0f2330602",
+              "text": "आकाशे च हृदि प्राज्ञस्त्रिधा देहे व्यवस्थितः॥१/८॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "3060f2e8-c845-405e-a2b5-75011912ab22",
+              "text": "विश्वो हि स्थूलभुक् नित्यं तैजसः प्रविविक्तभुक्।"
+            },
+            {
+              "id": "992dab34-59a4-4559-9834-54aeb73b8684",
+              "text": "आनन्दभुक् तथा प्राज्ञस्त्रिधा भोगं निबोधत॥ १/९॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "c283f962-d5d3-4bc9-ab5f-0da9fb205e50",
+              "text": "स्थूलं तर्पयते विश्वं प्रविविक्तं तु तैजसम्।"
+            },
+            {
+              "id": "bf9416e8-d5fb-4c0f-b560-0d824d3b1753",
+              "text": "आनन्दं च तथा प्राज्ञं त्रिधा तृप्तिं विजानथ॥१/१०॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "c3b2bdb2-62f5-4983-bfd2-5efd9f1d75a7",
+              "text": "त्रिषु धामसु यद् भोज्यं भोक्ता यश्च प्रकीर्तितः।"
+            },
+            {
+              "id": "83c39ef0-a038-4698-ab2a-f88250dbbd71",
+              "text": "वेदैतदुभयं यस्तु स भुञ्जानो न लिप्यते॥ १/११॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "e62a5813-8177-4a4f-b7e1-0cf1cfa1bf11",
+              "text": "प्रभवः सर्वभावानां सतामिति विनिश्चयः।"
+            },
+            {
+              "id": "286ae05f-d57e-46a0-b1db-d201b63cc7be",
+              "text": "सर्वं जनयति प्राणश्चेतोऽंशून् पुरुषः पृथक्॥ १/१२॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "867d22e9-3508-48fd-ad27-9f6a7b925925",
+              "text": "विभूतिं प्रसवं त्वन्ये मन्यन्ते सृष्टिचिन्तकाः।"
+            },
+            {
+              "id": "41fb63b9-75c7-4e0a-a258-0da3d8c2f713",
+              "text": "स्वप्नमायासरूपेति सृष्टिरन्यैर्विकल्पिता॥१/१३॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "6d1ef6e7-8e1d-4b2c-b7c3-e81ed6ea8d6c",
+              "text": "इच्छामात्रं प्रभोः सृष्टिरिति सृष्टौ विनिश्चिताः।"
+            },
+            {
+              "id": "71e76014-e090-404d-9aae-6328a54e160b",
+              "text": "कालात् प्रसूतिं भूतानां मन्यन्ते कालचिन्तकाः॥ १/१४॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "5178907d-e4b1-4c95-859a-222e35683ac3",
+              "text": "भोगार्थं सृष्टिरित्यन्ये क्रीडार्थमिति चापरे।"
+            },
+            {
+              "id": "6c0a02db-dea2-4c8b-a87e-d8e8f09999ea",
+              "text": "देवस्यैषः स्वभावोऽयमाप्तकामस्य का स्पृहेति॥ १/१५॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Mula",
+      "children": [
+        {
+          "id": "cdd93160-41b7-4c4c-8ba0-2654ec5346c2",
+          "text": "॥ इति प्रथमः खण्डः॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "f606c1d3-9fcb-428d-8b81-9472e1432ea6",
+          "text": "द्वितीयः खण्डः"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "0d837fb0-b8e9-429d-ace3-762c1c1a14a0",
+          "text": "नान्तःप्रज्ञं नबहिःप्रज्ञं नोभयतःप्रज्ञं नप्रज्ञानघनं नप्रज्ञं नाप्रज्ञमदृष्टमव्यवहार्यमलक्षणमचिन्त्यमव्यपदेश्यमैकात्म्यप्रत्ययसारं प्रपञ्चोपशमं शिवमद्वैतं चतुर्थं मन्यन्ते।"
+        },
+        {
+          "id": "a098c8cc-fd2d-490c-89b1-241f940f4f11",
+          "text": "स आत्मा स विज्ञेयः॥ २/१॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "97f88688-cfe8-49c1-aa82-78ffccdf1599",
+              "text": "अत्रैते श्लोकाः भवन्ति-"
+            },
+            {
+              "id": "94007c72-c43d-4a0d-9471-e812cd26a7ff",
+              "text": "निवृत्तेः सर्वदुःखानामीशानः प्रभुरव्ययः।"
+            },
+            {
+              "id": "077f3959-b0bd-49da-be42-5282aa4c0dc2",
+              "text": "अद्वैतः सर्वभावानां देवस्तुर्यो विभुः स्मृतः॥ २/२॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "9cf48cde-4ab7-430f-90f3-6f3a8a2e829c",
+              "text": "कार्यकारणबद्धौ ताविष्येते विश्वतैजसौ।"
+            },
+            {
+              "id": "878723ca-9bf3-47c4-af43-a490feb1b4dd",
+              "text": "प्राज्ञः कारणबद्धस्तु द्वौ तु तुर्ये न सिद्ध्यतः॥ २/३॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "3b822300-8eb8-4500-b443-e7100e1d349d",
+              "text": "नात्मानं न परांश्चैव न सत्यं नापि चानृतम्।"
+            },
+            {
+              "id": "295e0784-223a-4a0a-be2b-64ab6f3f042d",
+              "text": "प्राज्ञः किञ्चन संवेत्ति तुर्यं तत् सर्वदृक् सदा॥ २/४॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "9aaac5aa-48a3-4948-b2d7-dee73ce0abfa",
+              "text": "द्वैतस्याग्रहणं तुल्यमुभयोः प्राज्ञतुर्ययोः।"
+            },
+            {
+              "id": "abb28601-84cf-491e-b364-94ab2634d9bf",
+              "text": "बीजनिद्रायुतः प्राज्ञः सा च तुर्ये न विद्यते॥ २/५॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "b7a03a99-fb0a-4f36-aa77-edca1289ad74",
+              "text": "स्वप्ननिद्रायुतावाद्यौ प्राज्ञस्त्वस्वप्ननिद्रया।"
+            },
+            {
+              "id": "94d002e4-222a-486a-91b9-2800476fda7a",
+              "text": "न निद्रां नैव च स्वप्नं तुर्ये पश्यन्ति निश्चिताः॥ २/६॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "97e73e48-c6bb-4dca-9f1c-00f6acf46c39",
+              "text": "अन्यथा गृह्णतः स्वप्नो निद्रा तत्त्वमजानतः।"
+            },
+            {
+              "id": "b2eb80d0-9e52-499f-b92e-048584c98644",
+              "text": "विपर्यासे तयोः क्षीणे तुरीयं पदमश्नुते॥ २/७॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "e39023f8-e5dd-478d-8f30-2ac13638ddbc",
+              "text": "अनादिमायया सुप्तो यदा जीवः प्रबुद्ध्यते।"
+            },
+            {
+              "id": "7e34f430-1283-4a41-bff8-e6874230e672",
+              "text": "अजमनिद्रमस्वप्नमद्वैतं बुद्ध्यते तदा॥ २/८॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "8842b9aa-1934-4f4b-afea-f181b5d6bb15",
+              "text": "प्रपञ्चो यदि विद्येत निवर्तेत न संशयः।"
+            },
+            {
+              "id": "7987cf22-cd16-47fe-9ec1-9da86d0a65a9",
+              "text": "मायामात्रमिदं द्वैतमद्वैतं परमार्थतः॥ २/९॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "67ec9600-a7f2-4e97-a432-c143f2039c22",
+              "text": "विकल्पो विनिवर्तेत कल्पितो यदि केनचित्।"
+            },
+            {
+              "id": "d8fbb1b7-2797-400a-b7b4-16ad320dbe58",
+              "text": "उपदेशादयं वादो ज्ञाते द्वैतं न विद्यते॥ २/१०॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Mula",
+      "children": [
+        {
+          "id": "3ab55781-aaf0-43b4-bb5a-1ef3f8ac2d84",
+          "text": "॥ इति द्वितीयः खण्डः॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "d2c46da6-5cbd-47f9-be87-116962e7ecfc",
+          "text": "तृतीयः खण्डः"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "55fb9875-6151-4b87-9746-9b1aaff43711",
+          "text": "सोऽयमात्माऽध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा अकार उकारो मकार इति॥ ३/१॥"
+        },
+        {
+          "id": "4e43fff6-913d-4a59-90d8-c9c575e00672",
+          "text": "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्रा।"
+        },
+        {
+          "id": "84d85f5a-eaa5-4cbd-8281-16e887792b35",
+          "text": "आप्तेरादिमत्त्वाद् वा।"
+        },
+        {
+          "id": "43c4e15c-0777-4798-b8cc-0df77b1aa67d",
+          "text": "आप्नोति ह वै सर्वान् कामानादिश्च भवति।"
+        },
+        {
+          "id": "4a16309a-4d14-4b8a-b665-66d4c66dc77c",
+          "text": "य एवं वेद॥ ३/२॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "1ce8f395-d835-4c3f-89f8-9068ef59231e",
+          "text": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रा।"
+        },
+        {
+          "id": "b0200dfe-f83d-4c8a-a655-f7c8886effe5",
+          "text": "उत्कर्षादुभयत्वाद् वा।"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "2f3a5e5f-4a45-47f8-b075-41aecc8a21fa",
+          "text": "उत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति।"
+        },
+        {
+          "id": "622b877c-31aa-4250-b6c6-52df6d7dc687",
+          "text": "य एवं वेद॥ ३/३॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "97e469b8-fecf-4725-b63c-9db948d368b0",
+          "text": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा।"
+        },
+        {
+          "id": "af435f74-62c8-4dce-842b-3a75dd4cb7e6",
+          "text": "मितेरपीतेर्वा।"
+        },
+        {
+          "id": "96d51d67-b654-4b42-b798-398d31b4ddbd",
+          "text": "मिनोति ह वा इदं सर्वमपीतिश्च भवति।"
+        },
+        {
+          "id": "b66d29aa-6c5b-45f4-9fba-281bb2784c1f",
+          "text": "य एवं वेद॥ ३/४॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "86eb7611-46bf-4daf-9a31-5974ddf9ae8c",
+              "text": "अत्रैते श्लोकाः भवन्ति-"
+            },
+            {
+              "id": "393ab74a-83f0-4370-9271-92dd98d01d38",
+              "text": "विश्वस्यात्वविवक्षायामादिसामान्यमुत्कटम्।"
+            },
+            {
+              "id": "ccce1501-26a4-4b5c-ad27-b7d1af6b0b29",
+              "text": "मात्रासम्प्रतिपत्तौ स्यादाप्तिसामान्यमेव च॥ ३/५॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "2fa3fd00-3007-44d7-b545-40a4cf4f26c2",
+              "text": "तैजसस्योत्वविज्ञान उत्कर्षो दृश्यते स्फुटम्।"
+            },
+            {
+              "id": "8fb4dbe3-7c58-4c43-988e-a1971f06d513",
+              "text": "मात्रासम्प्रतिपत्तौ स्यादुभयत्वं तथाविधम्॥ ३/६॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "3f8b8151-13db-4fb3-b665-4eeb522cf628",
+              "text": "मकारभावे प्राज्ञस्य मानसामान्यमुत्कटम्।"
+            },
+            {
+              "id": "ee8667cb-44b6-4d25-b3b3-8528d6ea297f",
+              "text": "मात्रासम्प्रतिपत्तौ तु लयसामान्यमेव च॥ ३/७॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "7efdbfb2-5bfc-46ba-bffd-c06d89f114e4",
+              "text": "त्रिषु धामसु यत् तुल्यं सामान्यं वेत्ति निश्चितम्।"
+            },
+            {
+              "id": "168b44e7-bf58-4e7b-a029-2e2712697556",
+              "text": "स पूज्यः सर्वभूतानां वन्द्यश्चैव महामुनिः॥ ३/८॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "2417209c-7bc2-43d6-94d3-eb59df4cf897",
+              "text": "अकारो नयते विश्वमुकारश्चापि तैजसम्।"
+            },
+            {
+              "id": "77065752-3c62-4293-835e-cd3b19a2fb98",
+              "text": "मकारश्च पुनः प्राज्ञं नामात्रे विद्यतेऽगतिरिति॥ ३/९॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Mula",
+      "children": [
+        {
+          "id": "1f822228-3b90-47ef-bd90-af9c7e784647",
+          "text": "॥ इति तृतीयः खण्डः॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "7080a0d1-b4e9-403a-9ccc-4e5f933f4376",
+          "text": "चतुर्थः खण्डः"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "80f1fbca-9136-4fd3-9999-77afaf65e2bd",
+          "text": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत ओङ्कार आत्मैव संविशत्यात्मनाऽऽत्मानं य एवं वेद॥ ४/१॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "a6688be8-e4ba-493d-a723-903a63fdb58e",
+              "text": "अत्रैते श्लोकाः भवन्ति-"
+            },
+            {
+              "id": "ad2374f9-3db9-4599-bd18-80dfbea2ca9e",
+              "text": "ओङ्कारं पादशो विद्यात् पादा मात्रा न संशयः।"
+            },
+            {
+              "id": "23250f4e-4155-4b2f-8c9c-2f9029ba5b9a",
+              "text": "ओङ्कारं पादशो ज्ञात्वा न किञ्चिदपि चिन्तयेत्॥ ४/२॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "ea0dfa4e-76dd-4581-9899-23a063fce7b7",
+              "text": "युञ्जीत प्रणवे चेतः प्रणवो ब्रह्म निर्भयम्।"
+            },
+            {
+              "id": "a058aee6-e46c-4fe7-bcc3-bb25b1fa68bc",
+              "text": "प्रणवे नित्ययुक्तस्य न भयं विद्यते क्वचित्॥ ४/३॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "60b481dd-053e-4fd7-978a-91262c28bc34",
+              "text": "प्रणवो ह्यपरं ब्रह्म प्रणवस्य परं स्मृतः।"
+            },
+            {
+              "id": "7f173248-0ab7-4764-8266-ff7fe8300d6a",
+              "text": "अपूर्वोऽनन्तरोऽबाह्यो(ऽ)न-परः प्रणवोऽव्ययः॥ ४/४॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "a39d2d99-3ec6-4bbe-acd5-082576d26f1f",
+              "text": "सर्वस्य प्रणवो ह्यादिर्मध्यमन्तस्तथैव च।"
+            },
+            {
+              "id": "ab40f1a7-4104-417d-a827-de779970967e",
+              "text": "एवं हि प्रणवं ज्ञात्वा व्यश्नुते तदनन्तरम्॥ ४/५॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "b9f19401-f3fa-42b1-9cfb-5d1f4534497d",
+              "text": "प्रणवं हीश्वरं विद्यात् सर्वस्य हृदये स्थितम्।"
+            },
+            {
+              "id": "3613440f-77f9-4939-b280-52950b69d326",
+              "text": "सर्वव्यापिनमोङ्कारं मत्वा धीरो न शोचति॥ ४/६॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "d64a72f0-aeb8-4d57-9afb-2f7f7af61bb4",
+              "text": "अमात्रोऽनन्तमात्रश्च द्वैतस्योपशमः शिवः।"
+            },
+            {
+              "id": "5754305c-cde4-4853-9fec-9ef0d346051b",
+              "text": "ओङ्कारो विदितो येन स मुनिर्नेतरो जनः।"
+            },
+            {
+              "id": "08410a8a-2894-4055-8ae9-12290601697e",
+              "text": "स मुनिर्नेतरो जन इति॥ ४/७॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Mula",
+      "children": [
+        {
+          "id": "37adf829-4a66-4a57-8c36-357138a55166",
+          "text": "॥ इति चतुर्थः खण्डः॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "id": "6c0213b2-ee5e-4a8a-9e77-5e21bed47381",
+          "text": "भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः।"
+        },
+        {
+          "id": "34265000-5be5-49c4-b557-7439cb67701a",
+          "text": "स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायु॑:॥"
+        },
+        {
+          "id": "5cd9f7b0-f442-4a74-a668-a69d2e08fbfe",
+          "text": "स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति न॑: पू॒षा वि॒श्ववे॑दाः।"
+        },
+        {
+          "id": "574b9184-51c9-4860-b69b-752fbd7248da",
+          "text": "स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु॥"
+        },
+        {
+          "id": "613e89b7-eefd-466c-ab49-b9708b9f7eb3",
+          "text": "ओ३म् शान्तिः॒ शान्तिः॒ शान्तिः॑॥"
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Mula",
+      "children": [
+        {
+          "id": "e9c79b4d-1d90-4195-97b9-fb6b531b3b3f",
+          "text": "॥ इति माण्डूकोपनिषत् सम्पूर्णा॥"
+        }
+      ]
+    }
+  ],
+  "content_flat": {
+    "9b9c30df-28fd-498f-836f-88e86ca63301": {
+      "text": "उपोद्घातः",
+      "content_type": "Heading0",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e89198d1-960e-4898-b39f-ff28338a138e": {
+      "text": "ॐ भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "6a59ab23-7ab0-4330-af28-97da734a2812": {
+      "text": "स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायु॑:॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "cc05a543-0f20-44bf-961f-5dab5fadbcdf": {
+      "text": "स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति न॑: पू॒षा वि॒श्ववे॑दाः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "445d8d9b-8c4d-476a-8094-7cbd053bd4a9": {
+      "text": "स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "2c33ca78-cc10-46d2-b733-5abca471d6f5": {
+      "text": "ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "50903c25-c9dd-4dae-a893-ce1fbbfa6e1f": {
+      "text": "प्रथमः खण्डः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e1d6ba81-ddc6-4219-bd49-0e9810a3bb39": {
+      "text": "ओमित्येदक्षरमिदं सर्वम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "23ee55b2-f902-4665-b049-2a73f30db225": {
+      "text": "तस्योपव्याख्यानं भूतं भवद् भविष्यदिति॥ १/१॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "268db917-b65c-4ffd-9d8e-e7b6acda614e": {
+      "text": "सर्वमोङ्कार एव।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "920792b0-45d0-45d2-8a1e-4f021e6b57ce": {
+      "text": "यच्चान्यत् त्रिकालातीतं तदप्योङ्कार एव।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "f9ce065f-3e86-4edc-8abd-82f0b12c26a7": {
+      "text": "सर्वं ह्येतद् ब्रह्म।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3852e81c-2fcd-4a35-a717-ba37e20fbb6d": {
+      "text": "अयमात्मा ब्रह्म॥ १/२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b59f1d22-180b-4d4a-8a7a-d40fb1ae8962": {
+      "text": "सोऽयमात्मा चतुष्पात्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "d1b5a433-badf-4d1a-bd7a-36602a3267be": {
+      "text": "जागरितस्थानो बहिःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग् वैश्वानरः प्रथमः पादः॥ १/३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "2c426f50-0ccf-4b6c-bf19-430cb383b785": {
+      "text": "स्वप्नस्थानोऽन्तप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक् तैजसो द्वितीयः पादः॥१/४॥",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b0b1c1fe-45ed-4222-bd19-49cbdc20cf91": {
+      "text": "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "d3d41871-8125-4e5f-a990-cde7d40d95f7": {
+      "text": "सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः॥१/५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "72fdce5f-c506-4522-909a-06dd5d1a2a4d": {
+      "text": "एष सर्वेश्वरः एष सर्वज्ञः एषोऽन्तर्यामी।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a2683bf6-f06b-46c2-a772-87d6c59f485e": {
+      "text": "एष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम्॥ १/६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "493e036b-abd0-448a-8a76-fc674576558a": {
+      "text": "अत्रैते श्लोका भवन्ति-",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "de72298b-1f5c-4f78-bb5e-d5585f1c0e7f": {
+      "text": "बहिःप्रज्ञो विभुर्विश्वो ह्यन्तःप्रज्ञस्तु तैजसः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c68d6fa7-e905-4d71-b16b-a90201de36e8": {
+      "text": "घनप्रज्ञस्तथा प्राज्ञ एक एव त्रिधा स्मृतः॥ १/७॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "f8230b26-397c-4bfd-a038-8c0ab3ca80fe": {
+      "text": "दक्षिणाक्षिमुखे विश्वो मनस्यन्तस्तु तैजसः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "fa04fadc-a334-410d-a9c1-95d0f2330602": {
+      "text": "आकाशे च हृदि प्राज्ञस्त्रिधा देहे व्यवस्थितः॥१/८॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3060f2e8-c845-405e-a2b5-75011912ab22": {
+      "text": "विश्वो हि स्थूलभुक् नित्यं तैजसः प्रविविक्तभुक्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "992dab34-59a4-4559-9834-54aeb73b8684": {
+      "text": "आनन्दभुक् तथा प्राज्ञस्त्रिधा भोगं निबोधत॥ १/९॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c283f962-d5d3-4bc9-ab5f-0da9fb205e50": {
+      "text": "स्थूलं तर्पयते विश्वं प्रविविक्तं तु तैजसम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "bf9416e8-d5fb-4c0f-b560-0d824d3b1753": {
+      "text": "आनन्दं च तथा प्राज्ञं त्रिधा तृप्तिं विजानथ॥१/१०॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c3b2bdb2-62f5-4983-bfd2-5efd9f1d75a7": {
+      "text": "त्रिषु धामसु यद् भोज्यं भोक्ता यश्च प्रकीर्तितः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "83c39ef0-a038-4698-ab2a-f88250dbbd71": {
+      "text": "वेदैतदुभयं यस्तु स भुञ्जानो न लिप्यते॥ १/११॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e62a5813-8177-4a4f-b7e1-0cf1cfa1bf11": {
+      "text": "प्रभवः सर्वभावानां सतामिति विनिश्चयः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "286ae05f-d57e-46a0-b1db-d201b63cc7be": {
+      "text": "सर्वं जनयति प्राणश्चेतोऽंशून् पुरुषः पृथक्॥ १/१२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "867d22e9-3508-48fd-ad27-9f6a7b925925": {
+      "text": "विभूतिं प्रसवं त्वन्ये मन्यन्ते सृष्टिचिन्तकाः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "41fb63b9-75c7-4e0a-a258-0da3d8c2f713": {
+      "text": "स्वप्नमायासरूपेति सृष्टिरन्यैर्विकल्पिता॥१/१३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "6d1ef6e7-8e1d-4b2c-b7c3-e81ed6ea8d6c": {
+      "text": "इच्छामात्रं प्रभोः सृष्टिरिति सृष्टौ विनिश्चिताः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "71e76014-e090-404d-9aae-6328a54e160b": {
+      "text": "कालात् प्रसूतिं भूतानां मन्यन्ते कालचिन्तकाः॥ १/१४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "5178907d-e4b1-4c95-859a-222e35683ac3": {
+      "text": "भोगार्थं सृष्टिरित्यन्ये क्रीडार्थमिति चापरे।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "6c0a02db-dea2-4c8b-a87e-d8e8f09999ea": {
+      "text": "देवस्यैषः स्वभावोऽयमाप्तकामस्य का स्पृहेति॥ १/१५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "cdd93160-41b7-4c4c-8ba0-2654ec5346c2": {
+      "text": "॥ इति प्रथमः खण्डः॥",
+      "content_type": "Colophon_Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "f606c1d3-9fcb-428d-8b81-9472e1432ea6": {
+      "text": "द्वितीयः खण्डः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "0d837fb0-b8e9-429d-ace3-762c1c1a14a0": {
+      "text": "नान्तःप्रज्ञं नबहिःप्रज्ञं नोभयतःप्रज्ञं नप्रज्ञानघनं नप्रज्ञं नाप्रज्ञमदृष्टमव्यवहार्यमलक्षणमचिन्त्यमव्यपदेश्यमैकात्म्यप्रत्ययसारं प्रपञ्चोपशमं शिवमद्वैतं चतुर्थं मन्यन्ते।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a098c8cc-fd2d-490c-89b1-241f940f4f11": {
+      "text": "स आत्मा स विज्ञेयः॥ २/१॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "97f88688-cfe8-49c1-aa82-78ffccdf1599": {
+      "text": "अत्रैते श्लोकाः भवन्ति-",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "94007c72-c43d-4a0d-9471-e812cd26a7ff": {
+      "text": "निवृत्तेः सर्वदुःखानामीशानः प्रभुरव्ययः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "077f3959-b0bd-49da-be42-5282aa4c0dc2": {
+      "text": "अद्वैतः सर्वभावानां देवस्तुर्यो विभुः स्मृतः॥ २/२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "9cf48cde-4ab7-430f-90f3-6f3a8a2e829c": {
+      "text": "कार्यकारणबद्धौ ताविष्येते विश्वतैजसौ।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "878723ca-9bf3-47c4-af43-a490feb1b4dd": {
+      "text": "प्राज्ञः कारणबद्धस्तु द्वौ तु तुर्ये न सिद्ध्यतः॥ २/३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3b822300-8eb8-4500-b443-e7100e1d349d": {
+      "text": "नात्मानं न परांश्चैव न सत्यं नापि चानृतम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "295e0784-223a-4a0a-be2b-64ab6f3f042d": {
+      "text": "प्राज्ञः किञ्चन संवेत्ति तुर्यं तत् सर्वदृक् सदा॥ २/४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "9aaac5aa-48a3-4948-b2d7-dee73ce0abfa": {
+      "text": "द्वैतस्याग्रहणं तुल्यमुभयोः प्राज्ञतुर्ययोः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "abb28601-84cf-491e-b364-94ab2634d9bf": {
+      "text": "बीजनिद्रायुतः प्राज्ञः सा च तुर्ये न विद्यते॥ २/५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b7a03a99-fb0a-4f36-aa77-edca1289ad74": {
+      "text": "स्वप्ननिद्रायुतावाद्यौ प्राज्ञस्त्वस्वप्ननिद्रया।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "94d002e4-222a-486a-91b9-2800476fda7a": {
+      "text": "न निद्रां नैव च स्वप्नं तुर्ये पश्यन्ति निश्चिताः॥ २/६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "97e73e48-c6bb-4dca-9f1c-00f6acf46c39": {
+      "text": "अन्यथा गृह्णतः स्वप्नो निद्रा तत्त्वमजानतः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b2eb80d0-9e52-499f-b92e-048584c98644": {
+      "text": "विपर्यासे तयोः क्षीणे तुरीयं पदमश्नुते॥ २/७॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e39023f8-e5dd-478d-8f30-2ac13638ddbc": {
+      "text": "अनादिमायया सुप्तो यदा जीवः प्रबुद्ध्यते।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "7e34f430-1283-4a41-bff8-e6874230e672": {
+      "text": "अजमनिद्रमस्वप्नमद्वैतं बुद्ध्यते तदा॥ २/८॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "8842b9aa-1934-4f4b-afea-f181b5d6bb15": {
+      "text": "प्रपञ्चो यदि विद्येत निवर्तेत न संशयः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "7987cf22-cd16-47fe-9ec1-9da86d0a65a9": {
+      "text": "मायामात्रमिदं द्वैतमद्वैतं परमार्थतः॥ २/९॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "67ec9600-a7f2-4e97-a432-c143f2039c22": {
+      "text": "विकल्पो विनिवर्तेत कल्पितो यदि केनचित्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "d8fbb1b7-2797-400a-b7b4-16ad320dbe58": {
+      "text": "उपदेशादयं वादो ज्ञाते द्वैतं न विद्यते॥ २/१०॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3ab55781-aaf0-43b4-bb5a-1ef3f8ac2d84": {
+      "text": "॥ इति द्वितीयः खण्डः॥",
+      "content_type": "Colophon_Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "d2c46da6-5cbd-47f9-be87-116962e7ecfc": {
+      "text": "तृतीयः खण्डः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "55fb9875-6151-4b87-9746-9b1aaff43711": {
+      "text": "सोऽयमात्माऽध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा अकार उकारो मकार इति॥ ३/१॥",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "4e43fff6-913d-4a59-90d8-c9c575e00672": {
+      "text": "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्रा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "84d85f5a-eaa5-4cbd-8281-16e887792b35": {
+      "text": "आप्तेरादिमत्त्वाद् वा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "43c4e15c-0777-4798-b8cc-0df77b1aa67d": {
+      "text": "आप्नोति ह वै सर्वान् कामानादिश्च भवति।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "4a16309a-4d14-4b8a-b665-66d4c66dc77c": {
+      "text": "य एवं वेद॥ ३/२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "1ce8f395-d835-4c3f-89f8-9068ef59231e": {
+      "text": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रा।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b0200dfe-f83d-4c8a-a655-f7c8886effe5": {
+      "text": "उत्कर्षादुभयत्वाद् वा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "2f3a5e5f-4a45-47f8-b075-41aecc8a21fa": {
+      "text": "उत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित् कुले भवति।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "622b877c-31aa-4250-b6c6-52df6d7dc687": {
+      "text": "य एवं वेद॥ ३/३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "97e469b8-fecf-4725-b63c-9db948d368b0": {
+      "text": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "af435f74-62c8-4dce-842b-3a75dd4cb7e6": {
+      "text": "मितेरपीतेर्वा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "96d51d67-b654-4b42-b798-398d31b4ddbd": {
+      "text": "मिनोति ह वा इदं सर्वमपीतिश्च भवति।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b66d29aa-6c5b-45f4-9fba-281bb2784c1f": {
+      "text": "य एवं वेद॥ ३/४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "86eb7611-46bf-4daf-9a31-5974ddf9ae8c": {
+      "text": "अत्रैते श्लोकाः भवन्ति-",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "393ab74a-83f0-4370-9271-92dd98d01d38": {
+      "text": "विश्वस्यात्वविवक्षायामादिसामान्यमुत्कटम्।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ccce1501-26a4-4b5c-ad27-b7d1af6b0b29": {
+      "text": "मात्रासम्प्रतिपत्तौ स्यादाप्तिसामान्यमेव च॥ ३/५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "2fa3fd00-3007-44d7-b545-40a4cf4f26c2": {
+      "text": "तैजसस्योत्वविज्ञान उत्कर्षो दृश्यते स्फुटम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "8fb4dbe3-7c58-4c43-988e-a1971f06d513": {
+      "text": "मात्रासम्प्रतिपत्तौ स्यादुभयत्वं तथाविधम्॥ ३/६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3f8b8151-13db-4fb3-b665-4eeb522cf628": {
+      "text": "मकारभावे प्राज्ञस्य मानसामान्यमुत्कटम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ee8667cb-44b6-4d25-b3b3-8528d6ea297f": {
+      "text": "मात्रासम्प्रतिपत्तौ तु लयसामान्यमेव च॥ ३/७॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "7efdbfb2-5bfc-46ba-bffd-c06d89f114e4": {
+      "text": "त्रिषु धामसु यत् तुल्यं सामान्यं वेत्ति निश्चितम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "168b44e7-bf58-4e7b-a029-2e2712697556": {
+      "text": "स पूज्यः सर्वभूतानां वन्द्यश्चैव महामुनिः॥ ३/८॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "2417209c-7bc2-43d6-94d3-eb59df4cf897": {
+      "text": "अकारो नयते विश्वमुकारश्चापि तैजसम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "77065752-3c62-4293-835e-cd3b19a2fb98": {
+      "text": "मकारश्च पुनः प्राज्ञं नामात्रे विद्यतेऽगतिरिति॥ ३/९॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "1f822228-3b90-47ef-bd90-af9c7e784647": {
+      "text": "॥ इति तृतीयः खण्डः॥",
+      "content_type": "Colophon_Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "7080a0d1-b4e9-403a-9ccc-4e5f933f4376": {
+      "text": "चतुर्थः खण्डः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "80f1fbca-9136-4fd3-9999-77afaf65e2bd": {
+      "text": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत ओङ्कार आत्मैव संविशत्यात्मनाऽऽत्मानं य एवं वेद॥ ४/१॥",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a6688be8-e4ba-493d-a723-903a63fdb58e": {
+      "text": "अत्रैते श्लोकाः भवन्ति-",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ad2374f9-3db9-4599-bd18-80dfbea2ca9e": {
+      "text": "ओङ्कारं पादशो विद्यात् पादा मात्रा न संशयः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "23250f4e-4155-4b2f-8c9c-2f9029ba5b9a": {
+      "text": "ओङ्कारं पादशो ज्ञात्वा न किञ्चिदपि चिन्तयेत्॥ ४/२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ea0dfa4e-76dd-4581-9899-23a063fce7b7": {
+      "text": "युञ्जीत प्रणवे चेतः प्रणवो ब्रह्म निर्भयम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a058aee6-e46c-4fe7-bcc3-bb25b1fa68bc": {
+      "text": "प्रणवे नित्ययुक्तस्य न भयं विद्यते क्वचित्॥ ४/३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "60b481dd-053e-4fd7-978a-91262c28bc34": {
+      "text": "प्रणवो ह्यपरं ब्रह्म प्रणवस्य परं स्मृतः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "7f173248-0ab7-4764-8266-ff7fe8300d6a": {
+      "text": "अपूर्वोऽनन्तरोऽबाह्यो(ऽ)न-परः प्रणवोऽव्ययः॥ ४/४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a39d2d99-3ec6-4bbe-acd5-082576d26f1f": {
+      "text": "सर्वस्य प्रणवो ह्यादिर्मध्यमन्तस्तथैव च।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ab40f1a7-4104-417d-a827-de779970967e": {
+      "text": "एवं हि प्रणवं ज्ञात्वा व्यश्नुते तदनन्तरम्॥ ४/५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b9f19401-f3fa-42b1-9cfb-5d1f4534497d": {
+      "text": "प्रणवं हीश्वरं विद्यात् सर्वस्य हृदये स्थितम्।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3613440f-77f9-4939-b280-52950b69d326": {
+      "text": "सर्वव्यापिनमोङ्कारं मत्वा धीरो न शोचति॥ ४/६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "d64a72f0-aeb8-4d57-9afb-2f7f7af61bb4": {
+      "text": "अमात्रोऽनन्तमात्रश्च द्वैतस्योपशमः शिवः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "5754305c-cde4-4853-9fec-9ef0d346051b": {
+      "text": "ओङ्कारो विदितो येन स मुनिर्नेतरो जनः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "08410a8a-2894-4055-8ae9-12290601697e": {
+      "text": "स मुनिर्नेतरो जन इति॥ ४/७॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "37adf829-4a66-4a57-8c36-357138a55166": {
+      "text": "॥ इति चतुर्थः खण्डः॥",
+      "content_type": "Colophon_Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "6c0213b2-ee5e-4a8a-9e77-5e21bed47381": {
+      "text": "भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः।",
+      "content_type": "Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "34265000-5be5-49c4-b557-7439cb67701a": {
+      "text": "स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायु॑:॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "5cd9f7b0-f442-4a74-a668-a69d2e08fbfe": {
+      "text": "स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति न॑: पू॒षा वि॒श्ववे॑दाः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "574b9184-51c9-4860-b69b-752fbd7248da": {
+      "text": "स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "613e89b7-eefd-466c-ab49-b9708b9f7eb3": {
+      "text": "ओ३म् शान्तिः॒ शान्तिः॒ शान्तिः॑॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e9c79b4d-1d90-4195-97b9-fb6b531b3b3f": {
+      "text": "॥ इति माण्डूकोपनिषत् सम्पूर्णा॥",
+      "content_type": "Colophon_Mula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    }
+  }
+}

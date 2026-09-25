@@ -1,0 +1,1422 @@
+{
+  "title": "तत्त्वसङ्ख्यानम्",
+  "content": [
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "ca15f79b-4dc1-43bc-ac25-6530b66866e3",
+              "text": "-",
+              "bg_patha": "रमाविरिञ्चशर्वादिशक्रादीतरसुक्रमम्।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "784bf1ef-3c49-43a0-bfbe-d4a432997682",
+              "text": "-",
+              "bg_patha": "मुक्तौ चेदं गुणैः सर्वैर्यद्वशे नौमि तं हरिम्॥",
+              "trk_patha": "-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "26db02b5-2452-4970-9377-b59d5198f840",
+          "text": "तत्त्वस्य सामान्यविभागोद्देशौ"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "a1ce7b31-7633-4010-bb3b-8dba892f973e",
+              "text": "ॐ॥ स्वतन्त्रमस्वतन्त्रं च द्विविधं तत्त्वमिष्यते।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "827be43f-14c5-43c5-ba99-18154511a5b7",
+          "text": "स्वतन्त्रतत्त्वनिर्देशः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "a2591da1-8342-472d-8d3a-c8269ea0b2ca",
+              "text": "स्वतन्त्रो भगवान् विष्णुः --- --- ---"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "caa6d0a3-32aa-4add-bee7-5db9e95a4409",
+          "text": "अस्वतन्त्रतत्त्वविभागनिर्देशौ"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "efa49bc4-6a7f-402b-bd30-3efe004539c0",
+              "text": "--- --- ---भावाभावौ द्विधेतरत्‌॥ १॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "6d88b962-8c70-4f0f-b0b0-5cd275a73db0",
+          "text": "अभावविभागनिर्देशौ"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "bf9c972f-9227-4574-bd7b-cba91548cd75",
+              "text": "प्राक्प्रध्वंससदात्वेन त्रिविधोऽभाव इष्यते।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "43bb9cf0-da13-4b50-b5c6-31c8a6f8f678",
+          "text": "भावविभागनिर्देशौ"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "ba9cc299-420a-46e5-b987-74997d170b89",
+              "text": "चेतनाचेतनत्वेन भावोऽपि द्विविधो मतः॥ २॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "62dc963b-cc4c-4936-9de8-54a0808741d8",
+          "text": "चेतनविभागादि"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "b465a756-cffa-4e32-85e5-ec7d1ef974da",
+              "text": "दुःखस्पृष्टं तदस्पृष्टमिति द्वेधैव चेतनम्।"
+            },
+            {
+              "id": "286f81c1-2c2f-47b4-aa54-94be5d896163",
+              "text": "नित्यादुःखा रमाऽन्ये तु स्पृष्टदुःखाः समस्तशः॥ ३॥"
+            },
+            {
+              "id": "4c591149-1bfe-4e86-90e5-7b28e277e999",
+              "text": "स्पृष्टदुःखा विमुक्ताश्च दुःखसंस्था इति द्विधा।"
+            },
+            {
+              "id": "c8e65fee-9d01-4bb4-acb1-21d8e487eead",
+              "text": "दुःखसंस्था मुक्तियोग्या अयोग्या इति च द्विधा॥ ४ ॥"
+            },
+            {
+              "id": "9dcbcb81-372a-4974-bec5-1a6d2b9a9dea",
+              "text": "देवर्षिपितृपनरा इति मुक्तास्तु पञ्चधा।"
+            },
+            {
+              "id": "5e36a6d6-2074-420c-9a7a-e7a6766330e7",
+              "text": "एवं विमुक्तियोग्याश्च तमोगाः सृतिसंस्थिताः॥ ५ ॥"
+            },
+            {
+              "id": "7b9999e4-ba23-4055-ac64-c8ad3c9d42c3",
+              "text": "इति द्विधा मुक्त्ययोग्या दैत्यरक्षःपिशाचकाः।"
+            },
+            {
+              "id": "086ca3b6-fa25-42c4-8dbd-28e17f2300bd",
+              "text": "मर्त्याधमाश्चतुर्धैव तमोयोग्याः प्रकीर्तिताः॥ ६ ॥"
+            }
+          ]
+        },
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "35e3fafe-c088-4b0e-8bfe-5890492991c4",
+              "text": "ते च प्राप्तान्धतमसः सृतिसंस्था इति द्विधा।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "b4f595e6-7226-4fd2-97c6-256f5b35288b",
+          "text": "अचेतनविभागादि"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "e578cbea-d476-4aff-8fa9-949f7597bdff",
+              "text": "नित्यानित्यविभागेन त्रिधैवाचेतनं मतम्॥ ७ ॥"
+            },
+            {
+              "id": "021cae0d-5b7a-47a3-91e9-606d251d7d6e",
+              "text": "नित्या वेदाः पुराणाद्याः कालः प्रकृतिरेव च।"
+            },
+            {
+              "id": "9a4aa42b-d994-47d6-ba02-6dbe038b0319",
+              "text": "नित्यानित्यं त्रिधा प्रोक्तमनित्यं द्विविधं मतम्॥ ८ ॥",
+              "pathanatara": "द्विविधं स्मृतमिति क्वचित्।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "0395b8f4-f90e-4f4e-be51-35171a0e27d6",
+              "text": "असंसृष्टं च संसृष्टमसंसृष्टं महानहम्।"
+            },
+            {
+              "id": "95a5ac28-ef9a-4742-a11d-c8301e89be5c",
+              "text": "बुद्धिर्मनः खानि दश मात्रा भूतानि पञ्च च॥ ९ ॥"
+            },
+            {
+              "id": "45c08174-cd61-46fa-b3a9-c438fdb82fdd",
+              "text": "संसृष्टमण्डं तद्गं च समस्तं सम्प्रकीर्तितम्।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "db0cc121-e84f-4243-b55f-8f12392de102",
+          "text": "स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "3214a1b1-a4c0-4446-902a-b8fb081fe543",
+              "text": "सृष्टिः स्थितिः संहृतिश्च नियमोऽज्ञानबोधने॥ १०॥"
+            },
+            {
+              "id": "49018b39-bf85-4640-914b-ddcdfb5151f4",
+              "text": "बन्धो मोक्षः सुखं दुःखमावृतिर्ज्योतिरेव च॥"
+            },
+            {
+              "id": "980f98af-29b7-48e8-83e0-9382b1aa95ad",
+              "text": "विष्णुनाऽस्य समस्तस्य समासव्यासयोगतः॥ ११ ॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "id": "f1a7d2a7-e383-4b4d-8054-ad4f7a34c8ab",
+          "text": "-",
+          "bg_patha": "इत्यादि तत्त्वसङ्ख्याने।",
+          "trk_patha": "-"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "f431549a-0d42-4415-bd67-96c99d83ccaa",
+              "text": "-",
+              "bg_patha": "स्वजनोदधिसंवृद्धिपूर्णचन्द्रो गुणार्णवः।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "edcb2ae8-fcc0-4726-bb29-31faccc6006d",
+              "text": "-",
+              "bg_patha": "अमन्दानन्दसान्द्रो नः सदाऽव्यादिन्दिरापतिः॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "dee22062-2f69-4f6a-ab97-c01cd3c54bc0",
+              "text": "-",
+              "bg_patha": "रमाचकोरीविधवे दुष्टसर्पोदवह्नये।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "c52e6fb5-c843-4936-92fa-a0a984d4b022",
+              "text": "-",
+              "bg_patha": "सत्पान्थजनगेहाय नमो नारायणाय ते॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "572e4b2a-87bd-4699-8050-52e96bac3c03",
+              "text": "-",
+              "bg_patha": "चिदचिद्भेदमखिलं विधायाधाय भुञ्जते।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "e57c2b7b-54f4-42d0-a7ce-5c9f3f9f2e80",
+              "text": "-",
+              "bg_patha": "अव्याकृतगृहस्थाय रमाप्रणयिने नमः॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "83655b23-618e-4d0e-9df0-955bd46623de",
+              "text": "-",
+              "bg_patha": "अमन्दगुणसारोऽपि मन्दहासेन वीक्षितः।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "7e87cbd3-c709-4373-8d9d-31e8f2b93ce0",
+              "text": "-",
+              "bg_patha": "नित्यमिन्दिरयाऽऽनन्दसान्द्रो यो नौमि तं हरिम्॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "aec4b33c-be63-4199-900f-acab9ea48d6e",
+              "text": "-",
+              "bg_patha": "वशी वशो न कस्यापि योऽजितो विजिताखिलः।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "4af74435-8ed5-4e40-84c0-71d5e881ce33",
+              "text": "-",
+              "bg_patha": "सर्वकर्ता न क्रियते तं नमामि रमापतिम्॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "45017a55-4c56-499b-91b4-c57bd336bfb2",
+              "text": "-",
+              "bg_patha": "अगुणाय गुणोद्रेकस्वरूपायादिकारिणे।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "00e8ddc1-37ec-41ce-8201-e1283c951c46",
+              "text": "-",
+              "bg_patha": "विदारितारिसङ्घाय वासुदेवाय ते नमः॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "d8637a84-c855-4dcc-8fb0-912fbc315a3f",
+              "text": "-",
+              "bg_patha": "आदिदेवाय देवानां पतये सादितारये।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "be151e7c-a3d3-46db-bb8e-19178d7bf85b",
+              "text": "-",
+              "bg_patha": "अनाद्यज्ञानपाराय नमः पारावराश्रय॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "cd16a6d9-7fa2-4db1-9699-b1ce45a1d916",
+              "text": "-",
+              "bg_patha": "अजाय जनयित्रेऽस्य विजिताखिलदानव।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "f05ca609-5707-4b92-965f-7ab1a2df6605",
+              "text": "-",
+              "bg_patha": "अजादिपूज्यपादाय नमस्ते गरुडध्वज॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "d116fab9-9425-4856-8c5f-9df78d0cbdbf",
+              "text": "-",
+              "bg_patha": "रमारमण एवैको रणजिच्छरणं सताम्।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "04525a05-f9fa-4a5e-bceb-8c42962cd3bd",
+              "text": "-",
+              "bg_patha": "कारणं कारणस्यापि तरुणादित्यसप्रभः॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "98a5c70e-1444-4345-95d5-ce22bec5eba1",
+              "text": "-",
+              "bg_patha": "इन्दिरामन्दसान्द्राग्र्यकटाक्षप्रेक्षितात्मने।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "0fa8ba99-7e63-4539-a85a-f0196030372f",
+              "text": "-",
+              "bg_patha": "अस्मदिष्टैककार्याय पूर्णाय हरये नमः॥",
+              "trk_patha": "-"
+            },
+            {
+              "id": "f68239d4-cfa3-4b36-9da3-7a5fb67a43b2",
+              "text": "-",
+              "bg_patha": "एवंविधः परो विष्णुरव्याच्छ्रीपुरुषोत्तमः।",
+              "trk_patha": "-"
+            },
+            {
+              "id": "2640de82-c3c2-48a7-9b4c-8f09614b9cc4",
+              "text": "-",
+              "bg_patha": "तमहं सर्वदा वन्दे श्रीनिकेतं परं हरिम्॥",
+              "trk_patha": "-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Sarvamula",
+      "children": [
+        {
+          "id": "9248e35a-b733-4ec3-9423-87ad4cbc6c54",
+          "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्॥",
+          "bg_patha": "॥ इति तत्त्वसङ्ख्यानं समाप्तम्॥",
+          "footnote": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्॥"
+        }
+      ]
+    }
+  ],
+  "content_flat": {
+    "ca15f79b-4dc1-43bc-ac25-6530b66866e3": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "रमाविरिञ्चशर्वादिशक्रादीतरसुक्रमम्।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "784bf1ef-3c49-43a0-bfbe-d4a432997682": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "मुक्तौ चेदं गुणैः सर्वैर्यद्वशे नौमि तं हरिम्॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "26db02b5-2452-4970-9377-b59d5198f840": {
+      "text": "तत्त्वस्य सामान्यविभागोद्देशौ",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a1ce7b31-7633-4010-bb3b-8dba892f973e": {
+      "text": "ॐ॥ स्वतन्त्रमस्वतन्त्रं च द्विविधं तत्त्वमिष्यते।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "827be43f-14c5-43c5-ba99-18154511a5b7": {
+      "text": "स्वतन्त्रतत्त्वनिर्देशः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a2591da1-8342-472d-8d3a-c8269ea0b2ca": {
+      "text": "स्वतन्त्रो भगवान् विष्णुः --- --- ---",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "caa6d0a3-32aa-4add-bee7-5db9e95a4409": {
+      "text": "अस्वतन्त्रतत्त्वविभागनिर्देशौ",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "efa49bc4-6a7f-402b-bd30-3efe004539c0": {
+      "text": "--- --- ---भावाभावौ द्विधेतरत्‌॥ १॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "6d88b962-8c70-4f0f-b0b0-5cd275a73db0": {
+      "text": "अभावविभागनिर्देशौ",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "bf9c972f-9227-4574-bd7b-cba91548cd75": {
+      "text": "प्राक्प्रध्वंससदात्वेन त्रिविधोऽभाव इष्यते।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "43bb9cf0-da13-4b50-b5c6-31c8a6f8f678": {
+      "text": "भावविभागनिर्देशौ",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ba9cc299-420a-46e5-b987-74997d170b89": {
+      "text": "चेतनाचेतनत्वेन भावोऽपि द्विविधो मतः॥ २॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "62dc963b-cc4c-4936-9de8-54a0808741d8": {
+      "text": "चेतनविभागादि",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b465a756-cffa-4e32-85e5-ec7d1ef974da": {
+      "text": "दुःखस्पृष्टं तदस्पृष्टमिति द्वेधैव चेतनम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "286f81c1-2c2f-47b4-aa54-94be5d896163": {
+      "text": "नित्यादुःखा रमाऽन्ये तु स्पृष्टदुःखाः समस्तशः॥ ३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "4c591149-1bfe-4e86-90e5-7b28e277e999": {
+      "text": "स्पृष्टदुःखा विमुक्ताश्च दुःखसंस्था इति द्विधा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c8e65fee-9d01-4bb4-acb1-21d8e487eead": {
+      "text": "दुःखसंस्था मुक्तियोग्या अयोग्या इति च द्विधा॥ ४ ॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "9dcbcb81-372a-4974-bec5-1a6d2b9a9dea": {
+      "text": "देवर्षिपितृपनरा इति मुक्तास्तु पञ्चधा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "5e36a6d6-2074-420c-9a7a-e7a6766330e7": {
+      "text": "एवं विमुक्तियोग्याश्च तमोगाः सृतिसंस्थिताः॥ ५ ॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "7b9999e4-ba23-4055-ac64-c8ad3c9d42c3": {
+      "text": "इति द्विधा मुक्त्ययोग्या दैत्यरक्षःपिशाचकाः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "086ca3b6-fa25-42c4-8dbd-28e17f2300bd": {
+      "text": "मर्त्याधमाश्चतुर्धैव तमोयोग्याः प्रकीर्तिताः॥ ६ ॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "35e3fafe-c088-4b0e-8bfe-5890492991c4": {
+      "text": "ते च प्राप्तान्धतमसः सृतिसंस्था इति द्विधा।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b4f595e6-7226-4fd2-97c6-256f5b35288b": {
+      "text": "अचेतनविभागादि",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e578cbea-d476-4aff-8fa9-949f7597bdff": {
+      "text": "नित्यानित्यविभागेन त्रिधैवाचेतनं मतम्॥ ७ ॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "021cae0d-5b7a-47a3-91e9-606d251d7d6e": {
+      "text": "नित्या वेदाः पुराणाद्याः कालः प्रकृतिरेव च।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "9a4aa42b-d994-47d6-ba02-6dbe038b0319": {
+      "text": "नित्यानित्यं त्रिधा प्रोक्तमनित्यं द्विविधं मतम्॥ ८ ॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "द्विविधं स्मृतमिति क्वचित्।"
+      }
+    },
+    "0395b8f4-f90e-4f4e-be51-35171a0e27d6": {
+      "text": "असंसृष्टं च संसृष्टमसंसृष्टं महानहम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "95a5ac28-ef9a-4742-a11d-c8301e89be5c": {
+      "text": "बुद्धिर्मनः खानि दश मात्रा भूतानि पञ्च च॥ ९ ॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "45c08174-cd61-46fa-b3a9-c438fdb82fdd": {
+      "text": "संसृष्टमण्डं तद्गं च समस्तं सम्प्रकीर्तितम्।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "db0cc121-e84f-4243-b55f-8f12392de102": {
+      "text": "स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "3214a1b1-a4c0-4446-902a-b8fb081fe543": {
+      "text": "सृष्टिः स्थितिः संहृतिश्च नियमोऽज्ञानबोधने॥ १०॥",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "49018b39-bf85-4640-914b-ddcdfb5151f4": {
+      "text": "बन्धो मोक्षः सुखं दुःखमावृतिर्ज्योतिरेव च॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "980f98af-29b7-48e8-83e0-9382b1aa95ad": {
+      "text": "विष्णुनाऽस्य समस्तस्य समासव्यासयोगतः॥ ११ ॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "f1a7d2a7-e383-4b4d-8054-ad4f7a34c8ab": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "इत्यादि तत्त्वसङ्ख्याने।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "f431549a-0d42-4415-bd67-96c99d83ccaa": {
+      "text": "-",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "स्वजनोदधिसंवृद्धिपूर्णचन्द्रो गुणार्णवः।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "edcb2ae8-fcc0-4726-bb29-31faccc6006d": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अमन्दानन्दसान्द्रो नः सदाऽव्यादिन्दिरापतिः॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "dee22062-2f69-4f6a-ab97-c01cd3c54bc0": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "रमाचकोरीविधवे दुष्टसर्पोदवह्नये।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "c52e6fb5-c843-4936-92fa-a0a984d4b022": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "सत्पान्थजनगेहाय नमो नारायणाय ते॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "572e4b2a-87bd-4699-8050-52e96bac3c03": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "चिदचिद्भेदमखिलं विधायाधाय भुञ्जते।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "e57c2b7b-54f4-42d0-a7ce-5c9f3f9f2e80": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अव्याकृतगृहस्थाय रमाप्रणयिने नमः॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "83655b23-618e-4d0e-9df0-955bd46623de": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अमन्दगुणसारोऽपि मन्दहासेन वीक्षितः।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "7e87cbd3-c709-4373-8d9d-31e8f2b93ce0": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "नित्यमिन्दिरयाऽऽनन्दसान्द्रो यो नौमि तं हरिम्॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "aec4b33c-be63-4199-900f-acab9ea48d6e": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "वशी वशो न कस्यापि योऽजितो विजिताखिलः।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "4af74435-8ed5-4e40-84c0-71d5e881ce33": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "सर्वकर्ता न क्रियते तं नमामि रमापतिम्॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "45017a55-4c56-499b-91b4-c57bd336bfb2": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अगुणाय गुणोद्रेकस्वरूपायादिकारिणे।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "00e8ddc1-37ec-41ce-8201-e1283c951c46": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "विदारितारिसङ्घाय वासुदेवाय ते नमः॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "d8637a84-c855-4dcc-8fb0-912fbc315a3f": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "आदिदेवाय देवानां पतये सादितारये।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "be151e7c-a3d3-46db-bb8e-19178d7bf85b": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अनाद्यज्ञानपाराय नमः पारावराश्रय॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "cd16a6d9-7fa2-4db1-9699-b1ce45a1d916": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अजाय जनयित्रेऽस्य विजिताखिलदानव।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "f05ca609-5707-4b92-965f-7ab1a2df6605": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अजादिपूज्यपादाय नमस्ते गरुडध्वज॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "d116fab9-9425-4856-8c5f-9df78d0cbdbf": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "रमारमण एवैको रणजिच्छरणं सताम्।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "04525a05-f9fa-4a5e-bceb-8c42962cd3bd": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "कारणं कारणस्यापि तरुणादित्यसप्रभः॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "98a5c70e-1444-4345-95d5-ce22bec5eba1": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "इन्दिरामन्दसान्द्राग्र्यकटाक्षप्रेक्षितात्मने।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "0fa8ba99-7e63-4539-a85a-f0196030372f": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "अस्मदिष्टैककार्याय पूर्णाय हरये नमः॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "f68239d4-cfa3-4b36-9da3-7a5fb67a43b2": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "एवंविधः परो विष्णुरव्याच्छ्रीपुरुषोत्तमः।",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "2640de82-c3c2-48a7-9b4c-8f09614b9cc4": {
+      "text": "-",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "तमहं सर्वदा वन्दे श्रीनिकेतं परं हरिम्॥",
+        "trk_patha": "-",
+        "pathanatara": ""
+      }
+    },
+    "9248e35a-b733-4ec3-9423-87ad4cbc6c54": {
+      "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्॥",
+      "content_type": "Colophon_Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "॥ इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं तत्त्वसङ्ख्यानं सम्पूर्णम्॥",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "॥ इति तत्त्वसङ्ख्यानं समाप्तम्॥",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    }
+  }
+}

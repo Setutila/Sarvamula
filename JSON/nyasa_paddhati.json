@@ -1,0 +1,890 @@
+{
+  "title": "न्यासपद्धतिः",
+  "content": [
+    {
+      "content_type": "Heading1",
+      "children": [
+        {
+          "id": "81bb2543-300a-4fc7-8b17-55aab5b11824",
+          "text": "न्यासपद्धतिः",
+          "footnote": "गोविन्दाचार्याणां पाठानुसारेणेयमत्र निक्षिप्ता। न पठ्यते कृपाठे।"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "c87ae76a-14d5-40e8-9628-fa1fd9cbcd50",
+              "text": "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम्।",
+              "bg_patha": "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम्।",
+              "pathanatara": "‘नरनारायणं देवं पूर्णम्’ इति क्वचित्, तच्च ‘नत्वा नारायणं देवं पूर्णम्’ इति स्यादिति गोविन्दाचार्याः।"
+            },
+            {
+              "id": "dc8609bc-acef-4371-9bbb-d03a96a1b5b3",
+              "text": "यतेराचरणं वक्ष्ये पूर्णं शास्त्रानुसारतः॥ १॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "8cafdfb7-0dda-460b-be8a-6d513d73104e",
+              "text": "अरुणोदयवेळायामुत्थाय हरिमानसः।"
+            },
+            {
+              "id": "c006888e-3fce-48fb-89f2-0c8caa83eea7",
+              "text": "शौचादिकं यथान्यायं कृत्वा"
+            },
+            {
+              "id": "885605bc-96a3-41ee-907d-b376c7716f94",
+              "text": "दन्तान् विशोधयेत्॥ २॥",
+              "bg_patha": "दन्तान् विशोधयेत्॥ २॥",
+              "pathanatara": "‘दन्तांश्च शोधयेत्’ इति क्वचित्।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "005bef35-ae95-4ff8-917a-a07fb3aca21d",
+              "text": "कटिशौचं मृदा"
+            },
+            {
+              "id": "ec7abfb0-ae92-4f11-8784-f9658fb6d75d",
+              "text": "कुर्याच्छुद्ध्यर्थं",
+              "bg_patha": "कुर्याच्छुद्ध्यर्थं",
+              "pathanatara": "‘कुर्यात् स्नानार्थं’ इति क्वचित्।"
+            },
+            {
+              "id": "0df329ad-0cd1-4e35-85cd-0c295598d3e8",
+              "text": "जलसंस्थितः।"
+            },
+            {
+              "id": "2f9bbe24-5f0e-4fe2-b1b0-1b6407c4030b",
+              "text": "स्नानं कुर्याद् यथोक्तेन विधिना"
+            }
+          ]
+        },
+        {
+          "id": "02c4b746-5068-4ee2-9823-8ff98a9f5d16",
+          "text": "नियतो हरौ॥ ३॥",
+          "bg_patha": "नियतो हरौ॥ ३॥",
+          "pathanatara": "‘नियतो हरिः’, इति, ‘नियतो हरिम्’ इति, ‘नियतो यतिः’ इति चान्यत्र।"
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "673a24df-83eb-4386-a111-1aee0542693b",
+              "text": "धृतोर्ध्वपुण्ड्रं विधिवत् प्रकल्प्यासनमच्युते।"
+            },
+            {
+              "id": "fec6b4a9-b20a-4b33-9b1c-e100a5ac9f4c",
+              "text": "मनो निवेश्याष्टमन्त्रान् यथाशक्ति जपेच्छुचिः॥ ४॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "4fdbe0e3-0947-498e-ae01-f84c4b4d128d",
+              "text": "द्वादशसहस्रावृत्ति",
+              "bg_patha": "द्वादशसहस्रावृत्ति परं ब्रह्माक्षरं जपेत्।",
+              "pathanatara": "‘द्वादशसहस्रावृत्तिम्’ - इति क्वचित्।"
+            },
+            {
+              "id": "f3d70cfe-c492-49aa-bda6-837db434b065",
+              "text": "परं ब्रह्माक्षरं जपेत्।"
+            },
+            {
+              "id": "5b2024d4-9487-4bdc-b132-c1e0503cd2c7",
+              "text": "दण्डोदकं जपस्यान्ते दद्याद् विधिविधानतः॥ ५॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "c49e3c86-b181-4862-932a-0324196eb54a",
+              "text": "देवतां परमां सम्यक् पूजयेच्च विधानतः।"
+            },
+            {
+              "id": "5f193546-53cd-4edf-9316-49c478ba7ea1",
+              "text": "भिक्षाकाले विधानेन चरेद् भिक्षाटनं यतिः।"
+            },
+            {
+              "id": "c61629c3-33f0-4ae2-a0f8-3a7c14246827",
+              "text": "एकत्र भिक्षाचरणं जघन्यमिति चोच्यते ॥ ६॥",
+              "bg_patha": "[-]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "ff589e59-fe2c-41e8-a1e0-d4fa18525484",
+              "text": "अनेकभिक्षाचरणं मुख्यधर्मो यतेः स्मृतः ।",
+              "pathanatara": "‘यतेर्युतः’ इति क्वचित्।"
+            },
+            {
+              "id": "b9ecdc66-08c4-4de1-af15-206a9a2f23f1",
+              "text": "त्रिपञ्चसप्तसद्मानि गच्छेन्नातोऽधिकं पुनः॥ ७॥",
+              "pathanatara": "‘त्रिसप्तपञ्चषष्ठं वा निर्गच्छेत ततोऽधिकम्’ इति क्वचित्।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "a32ab7fa-0469-4750-a25f-85c112fc8bf5",
+              "text": "भिक्षाग्रहणकाले तु गृह्णीयाद् दातृतो जलम्।"
+            },
+            {
+              "id": "e0aa3ec9-f96f-4a6c-b9e1-40eed51d1b9f",
+              "text": "भिक्षान्ने तज्जलं प्रोक्ष्य पुनर्ग्राह्यं विदा जलम्॥ ८॥",
+              "pathanatara": "‘तु जलं’ इति क्वचित्।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "8189e25a-fd3b-4db9-9f12-5ecb65ef4ade",
+              "text": "निवेदयेत् तदन्नं तु वारिजस्योदकेन तु ।",
+              "pathanatara": "‘वारिजस्थोदकेन’ इति क्वचित्।"
+            },
+            {
+              "id": "af9eb162-25d3-4990-8205-01690f2bb663",
+              "text": "प्रोक्ष्य देवाय महते मूलमन्त्रेण वाग्यतः।"
+            },
+            {
+              "id": "a7ae894f-06ce-4580-87dc-02fbbbaaf1ca",
+              "text": "तदन्नं भक्षयेत् स्वस्थो ह्यजवद्धरिमानसः॥ ९॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "6d4fb987-fe39-4904-a56d-0e72c4b181f7",
+              "text": "त्रिवारमुदकस्रानं यतेः शास्त्रेषु चोदितम्।"
+            },
+            {
+              "id": "228356c5-4763-495d-9232-fe352bec043f",
+              "text": "अशक्तस्य यतेः शास्त्रे द्विवारं स्रानचोद‌ना।"
+            },
+            {
+              "id": "b14b8e60-2950-413e-8b27-10a6708408f7",
+              "text": "अत्यन्ताशक्तविषये त्वेकं स्नानं स्मृतं बुधैः॥ १०॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "53d857fe-dd89-4cdf-898d-9c63413ef7c8",
+              "text": "वेदान्तशास्त्राभ्यसनं मुख्यधर्मो यतेः स्मृतः।"
+            },
+            {
+              "id": "c1992b86-2282-48a7-9631-58498d45dd61",
+              "text": "देवो नारायणो नित्यं सृष्टिस्थित्यन्तकारकः।",
+              "pathanatara": "‘ध्यायेन्नारायणं देवं सृष्टिस्थित्यन्तकारकम्’ इति क्वचित्।"
+            },
+            {
+              "id": "b370c646-bced-4c96-b8ce-b1fe51e1064d",
+              "text": "भक्तानां मुक्तिदो नित्यमन्यथाज्ञानिनां तमः॥ ११॥",
+              "pathanatara": "‘भक्तानां मुक्तिदं नित्यमन्यथाज्ञानिनां तमः’ इति क्वचित्।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Sarvamula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "997c7222-addf-46a9-a492-ac82bb7e8c1b",
+              "text": "पूर्णप्रज्ञेन मुनिना व्यासवाक्यसमुद्धृतिः।"
+            },
+            {
+              "id": "f56788e9-24cd-420b-8d1c-913e272e8735",
+              "text": "न्यासधर्मस्य विषये शुभा सङ्क्षेपतः कृता॥ १२॥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "content_type": "Colophon_Sarvamula",
+      "children": [
+        {
+          "id": "cc234b54-87ef-4ac9-800f-f5d5cccca1e5",
+          "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादकृता न्यासपद्धतिः समाप्ता॥"
+        }
+      ]
+    }
+  ],
+  "content_flat": {
+    "81bb2543-300a-4fc7-8b17-55aab5b11824": {
+      "text": "न्यासपद्धतिः",
+      "content_type": "Heading1",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "गोविन्दाचार्याणां पाठानुसारेणेयमत्र निक्षिप्ता। न पठ्यते कृपाठे।",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c87ae76a-14d5-40e8-9628-fa1fd9cbcd50": {
+      "text": "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम्।",
+        "trk_patha": "",
+        "pathanatara": "‘नरनारायणं देवं पूर्णम्’ इति क्वचित्, तच्च ‘नत्वा नारायणं देवं पूर्णम्’ इति स्यादिति गोविन्दाचार्याः।"
+      }
+    },
+    "dc8609bc-acef-4371-9bbb-d03a96a1b5b3": {
+      "text": "यतेराचरणं वक्ष्ये पूर्णं शास्त्रानुसारतः॥ १॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "8cafdfb7-0dda-460b-be8a-6d513d73104e": {
+      "text": "अरुणोदयवेळायामुत्थाय हरिमानसः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c006888e-3fce-48fb-89f2-0c8caa83eea7": {
+      "text": "शौचादिकं यथान्यायं कृत्वा",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "885605bc-96a3-41ee-907d-b376c7716f94": {
+      "text": "दन्तान् विशोधयेत्॥ २॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "दन्तान् विशोधयेत्॥ २॥",
+        "trk_patha": "",
+        "pathanatara": "‘दन्तांश्च शोधयेत्’ इति क्वचित्।"
+      }
+    },
+    "005bef35-ae95-4ff8-917a-a07fb3aca21d": {
+      "text": "कटिशौचं मृदा",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ec7abfb0-ae92-4f11-8784-f9658fb6d75d": {
+      "text": "कुर्याच्छुद्ध्यर्थं",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "कुर्याच्छुद्ध्यर्थं",
+        "trk_patha": "",
+        "pathanatara": "‘कुर्यात् स्नानार्थं’ इति क्वचित्।"
+      }
+    },
+    "0df329ad-0cd1-4e35-85cd-0c295598d3e8": {
+      "text": "जलसंस्थितः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "2f9bbe24-5f0e-4fe2-b1b0-1b6407c4030b": {
+      "text": "स्नानं कुर्याद् यथोक्तेन विधिना",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "02c4b746-5068-4ee2-9823-8ff98a9f5d16": {
+      "text": "नियतो हरौ॥ ३॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "नियतो हरौ॥ ३॥",
+        "trk_patha": "",
+        "pathanatara": "‘नियतो हरिः’, इति, ‘नियतो हरिम्’ इति, ‘नियतो यतिः’ इति चान्यत्र।"
+      }
+    },
+    "673a24df-83eb-4386-a111-1aee0542693b": {
+      "text": "धृतोर्ध्वपुण्ड्रं विधिवत् प्रकल्प्यासनमच्युते।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "fec6b4a9-b20a-4b33-9b1c-e100a5ac9f4c": {
+      "text": "मनो निवेश्याष्टमन्त्रान् यथाशक्ति जपेच्छुचिः॥ ४॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "4fdbe0e3-0947-498e-ae01-f84c4b4d128d": {
+      "text": "द्वादशसहस्रावृत्ति",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "द्वादशसहस्रावृत्ति परं ब्रह्माक्षरं जपेत्।",
+        "trk_patha": "",
+        "pathanatara": "‘द्वादशसहस्रावृत्तिम्’ - इति क्वचित्।"
+      }
+    },
+    "f3d70cfe-c492-49aa-bda6-837db434b065": {
+      "text": "परं ब्रह्माक्षरं जपेत्।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inline",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "5b2024d4-9487-4bdc-b132-c1e0503cd2c7": {
+      "text": "दण्डोदकं जपस्यान्ते दद्याद् विधिविधानतः॥ ५॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c49e3c86-b181-4862-932a-0324196eb54a": {
+      "text": "देवतां परमां सम्यक् पूजयेच्च विधानतः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "5f193546-53cd-4edf-9316-49c478ba7ea1": {
+      "text": "भिक्षाकाले विधानेन चरेद् भिक्षाटनं यतिः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c61629c3-33f0-4ae2-a0f8-3a7c14246827": {
+      "text": "एकत्र भिक्षाचरणं जघन्यमिति चोच्यते ॥ ६॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "[-]",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "ff589e59-fe2c-41e8-a1e0-d4fa18525484": {
+      "text": "अनेकभिक्षाचरणं मुख्यधर्मो यतेः स्मृतः ।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "‘यतेर्युतः’ इति क्वचित्।"
+      }
+    },
+    "b9ecdc66-08c4-4de1-af15-206a9a2f23f1": {
+      "text": "त्रिपञ्चसप्तसद्मानि गच्छेन्नातोऽधिकं पुनः॥ ७॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "‘त्रिसप्तपञ्चषष्ठं वा निर्गच्छेत ततोऽधिकम्’ इति क्वचित्।"
+      }
+    },
+    "a32ab7fa-0469-4750-a25f-85c112fc8bf5": {
+      "text": "भिक्षाग्रहणकाले तु गृह्णीयाद् दातृतो जलम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "e0aa3ec9-f96f-4a6c-b9e1-40eed51d1b9f": {
+      "text": "भिक्षान्ने तज्जलं प्रोक्ष्य पुनर्ग्राह्यं विदा जलम्॥ ८॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "‘तु जलं’ इति क्वचित्।"
+      }
+    },
+    "8189e25a-fd3b-4db9-9f12-5ecb65ef4ade": {
+      "text": "निवेदयेत् तदन्नं तु वारिजस्योदकेन तु ।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "‘वारिजस्थोदकेन’ इति क्वचित्।"
+      }
+    },
+    "af9eb162-25d3-4990-8205-01690f2bb663": {
+      "text": "प्रोक्ष्य देवाय महते मूलमन्त्रेण वाग्यतः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "a7ae894f-06ce-4580-87dc-02fbbbaaf1ca": {
+      "text": "तदन्नं भक्षयेत् स्वस्थो ह्यजवद्धरिमानसः॥ ९॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "6d4fb987-fe39-4904-a56d-0e72c4b181f7": {
+      "text": "त्रिवारमुदकस्रानं यतेः शास्त्रेषु चोदितम्।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "228356c5-4763-495d-9232-fe352bec043f": {
+      "text": "अशक्तस्य यतेः शास्त्रे द्विवारं स्रानचोद‌ना।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "b14b8e60-2950-413e-8b27-10a6708408f7": {
+      "text": "अत्यन्ताशक्तविषये त्वेकं स्नानं स्मृतं बुधैः॥ १०॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "53d857fe-dd89-4cdf-898d-9c63413ef7c8": {
+      "text": "वेदान्तशास्त्राभ्यसनं मुख्यधर्मो यतेः स्मृतः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "c1992b86-2282-48a7-9631-58498d45dd61": {
+      "text": "देवो नारायणो नित्यं सृष्टिस्थित्यन्तकारकः।",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "‘ध्यायेन्नारायणं देवं सृष्टिस्थित्यन्तकारकम्’ इति क्वचित्।"
+      }
+    },
+    "b370c646-bced-4c96-b8ce-b1fe51e1064d": {
+      "text": "भक्तानां मुक्तिदो नित्यमन्यथाज्ञानिनां तमः॥ ११॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": "‘भक्तानां मुक्तिदं नित्यमन्यथाज्ञानिनां तमः’ इति क्वचित्।"
+      }
+    },
+    "997c7222-addf-46a9-a492-ac82bb7e8c1b": {
+      "text": "पूर्णप्रज्ञेन मुनिना व्यासवाक्यसमुद्धृतिः।",
+      "content_type": "Sarvamula",
+      "is_pramana": "",
+      "is_padya": "Yes",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "f56788e9-24cd-420b-8d1c-913e272e8735": {
+      "text": "न्यासधर्मस्य विषये शुभा सङ्क्षेपतः कृता॥ १२॥",
+      "content_type": "Inherit",
+      "is_pramana": "",
+      "is_padya": "Inherit",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    },
+    "cc234b54-87ef-4ac9-800f-f5d5cccca1e5": {
+      "text": "॥ इति श्रीमदानन्दतीर्थभगवत्पादकृता न्यासपद्धतिः समाप्ता॥",
+      "content_type": "Colophon_Sarvamula",
+      "is_pramana": "",
+      "is_padya": "",
+      "kutra": "",
+      "source": "",
+      "pramana_info": "",
+      "pramana_actual": "",
+      "footnote": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": "",
+        "pathanatara": ""
+      }
+    }
+  }
+}
