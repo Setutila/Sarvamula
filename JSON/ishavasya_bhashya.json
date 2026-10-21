@@ -2,15 +2,6 @@
   "title": "ईशावास्योपनिषद्भाष्यम्",
   "content": [
     {
-      "content_type": "Heading0",
-      "children": [
-        {
-          "id": "a3592fd4-f693-44a1-afd2-d3ccaa657e92",
-          "text": "उपोद्घातः"
-        }
-      ]
-    },
-    {
       "content_type": "Mula",
       "children": [
         {
@@ -44,7 +35,7 @@
             },
             {
               "id": "5a60ae37-0546-419b-9c62-53eda69b7b16",
-              "text": "पूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥ *॥"
+              "text": "पूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥"
             },
             {
               "id": "d8268cd6-c3ed-433e-9d9a-d58e4b9e7b5e",
@@ -52,34 +43,7 @@
             },
             {
               "id": "b6de87ec-eac4-4439-9a5e-2892ec1b46ad",
-              "text": "ज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥ *॥"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "content_type": "Heading1",
-      "children": [
-        {
-          "id": "e637878a-a8b0-4ea8-b0fc-7b4906222e6d",
-          "text": "उपनिषत्"
-        }
-      ]
-    },
-    {
-      "content_type": "Mula",
-      "children": [
-        {
-          "padya": true,
-          "children": [
-            {
-              "id": "1c6b7ecb-2bbc-4153-ad8d-7511687d0082",
-              "text": "ॐ॥ ईशावास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत्।"
-            },
-            {
-              "id": "f16f7147-d96d-45b6-ac22-e4ad6bc712a3",
-              "text": "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम्॥ १॥"
+              "text": "ज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥"
             }
           ]
         }
@@ -91,12 +55,7 @@
         {
           "id": "dfc1b89c-4f59-483b-84eb-d4d5c51fcb48",
           "text": "स्वायम्भुवो मनुरेतैर्मन्त्रैर्भगवन्तमाकूतिसूनुं यज्ञनामानं विष्णुं तुष्टाव।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -144,12 +103,7 @@
         {
           "id": "a4f86461-41ff-4add-8658-49ac0e871dcd",
           "text": "इति ब्रह्माण्डे।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "id": "9df8ed0b-d389-425d-aa9b-2d8b8db7598d",
           "text": "भागवते"
@@ -159,6 +113,24 @@
           "text": "चायमेवार्थ उक्तः।",
           "bg_patha": "चायमर्थ एवोक्तः।",
           "trk_patha": "चायमेवार्थ उक्तः।"
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
+        {
+          "padya": true,
+          "children": [
+            {
+              "id": "1c6b7ecb-2bbc-4153-ad8d-7511687d0082",
+              "text": "ॐ॥ ईशावास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत्।"
+            },
+            {
+              "id": "f16f7147-d96d-45b6-ac22-e4ad6bc712a3",
+              "text": "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम्॥ १॥"
+            }
+          ]
         }
       ]
     },
@@ -207,12 +179,7 @@
           "id": "eb27734f-0bac-41eb-9f5a-009cb9fe7999",
           "text": "भुञ्जीथाः।",
           "pratika_type": "Mula"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -221,7 +188,7 @@
               "children": [
                 {
                   "id": "d13dfdef-b3ec-41c9-a94b-965d3ef29695",
-                  "text": "“स्वतः प्रवृत्त्यशक्तत्वादीशावास्यमिदं जगत्।"
+                  "text": "“स्वतःप्रवृत्त्यशक्तत्वादीशावास्यमिदं जगत्।"
                 },
                 {
                   "id": "f4569854-ec41-4616-bb77-d517fb95e166",
@@ -285,12 +252,7 @@
         {
           "id": "d46f7071-73ba-4b6f-b696-570e0174c231",
           "text": "इति नास्ति।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -364,12 +326,7 @@
         {
           "id": "343fd759-15cc-42ac-b1fb-5c6b6a15604c",
           "text": "इत्युक्तत्वात्।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -391,12 +348,7 @@
         {
           "id": "1ef994e9-019a-4368-a672-52f12f30235c",
           "text": "इति वामने।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "id": "cf4cc3d9-38cb-448c-b706-db58e2c8e78b",
           "text": "ये के च",
@@ -501,12 +453,7 @@
         {
           "id": "925a31c9-9226-48c6-8e97-3ffffaa5c569",
           "text": "इति ब्रह्माण्डे।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -563,12 +510,7 @@
           "id": "6f5c2bd9-0206-44b7-9dd3-09874383c4a4",
           "text": "नेजति।",
           "pratika_type": "Mula"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -685,12 +627,7 @@
           "id": "347675d2-e2b6-41ee-aa15-49609419e7b6",
           "text": "विजानतः को मोहः?",
           "pratika_type": "Mula"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -1180,12 +1117,7 @@
         {
           "id": "57cb3a10-e632-477f-8459-7fd95411896b",
           "text": "इति ब्रह्माण्डे।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "id": "c7ccf767-c1a8-4cb8-8735-6177e78eecb1",
           "text": "सत्यं ब्रह्म हृदये धारयतीति सत्यधर्मा।"
@@ -1235,12 +1167,7 @@
         {
           "id": "2c9fbd83-156a-44a7-917b-9b57f3c00fba",
           "text": "अनिलम्।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -1262,12 +1189,7 @@
         {
           "id": "1d4efc5c-7a33-4626-b747-a5dddd80b750",
           "text": "इति रामसंहितायाम्।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -1362,12 +1284,7 @@
         {
           "id": "d0f74915-ffc5-4019-b025-c969dc5f7a39",
           "text": "वियोजय।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -1389,12 +1306,7 @@
         {
           "id": "57daa5c5-f508-4d69-911f-64f44f6e230c",
           "text": "इति स्कान्दे।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "pramana": true,
           "children": [
@@ -1407,12 +1319,7 @@
         {
           "id": "b9b6ec9b-f334-42dd-866b-30fec22ea8d8",
           "text": "इति धातुः।"
-        }
-      ]
-    },
-    {
-      "content_type": "Sarvamula",
-      "children": [
+        },
         {
           "id": "a0e6a07c-bc4e-46c0-9382-e17293adc4ac",
           "text": "भक्तिज्ञानाभ्यां"
@@ -1500,15 +1407,6 @@
     }
   ],
   "content_flat": {
-    "a3592fd4-f693-44a1-afd2-d3ccaa657e92": {
-      "text": "उपोद्घातः",
-      "kutra": "",
-      "pratika_type": "",
-      "pathanatara": {
-        "bg_patha": "",
-        "trk_patha": ""
-      }
-    },
     "2b31359f-1413-4f93-ad93-ebfa5a862375": {
       "text": "ॐ॥ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते।",
       "kutra": "",
@@ -1546,7 +1444,7 @@
       }
     },
     "5a60ae37-0546-419b-9c62-53eda69b7b16": {
-      "text": "पूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥ *॥",
+      "text": "पूर्णानन्दाय हरये सर्वयज्ञभुजे नमः॥",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -1564,34 +1462,7 @@
       }
     },
     "b6de87ec-eac4-4439-9a5e-2892ec1b46ad": {
-      "text": "ज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥ *॥",
-      "kutra": "",
-      "pratika_type": "",
-      "pathanatara": {
-        "bg_patha": "",
-        "trk_patha": ""
-      }
-    },
-    "e637878a-a8b0-4ea8-b0fc-7b4906222e6d": {
-      "text": "उपनिषत्",
-      "kutra": "",
-      "pratika_type": "",
-      "pathanatara": {
-        "bg_patha": "",
-        "trk_patha": ""
-      }
-    },
-    "1c6b7ecb-2bbc-4153-ad8d-7511687d0082": {
-      "text": "ॐ॥ ईशावास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत्।",
-      "kutra": "",
-      "pratika_type": "",
-      "pathanatara": {
-        "bg_patha": "",
-        "trk_patha": ""
-      }
-    },
-    "f16f7147-d96d-45b6-ac22-e4ad6bc712a3": {
-      "text": "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम्॥ १॥",
+      "text": "ज्ञानस्फूर्तिः सदा तस्मै हरये गुरवे नमः॥",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -1689,6 +1560,24 @@
         "trk_patha": "चायमेवार्थ उक्तः।"
       }
     },
+    "1c6b7ecb-2bbc-4153-ad8d-7511687d0082": {
+      "text": "ॐ॥ ईशावास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत्।",
+      "kutra": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": ""
+      }
+    },
+    "f16f7147-d96d-45b6-ac22-e4ad6bc712a3": {
+      "text": "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम्॥ १॥",
+      "kutra": "",
+      "pratika_type": "",
+      "pathanatara": {
+        "bg_patha": "",
+        "trk_patha": ""
+      }
+    },
     "8a9adef7-624a-40f5-b5e3-8a69aa114051": {
       "text": "ईशस्यावासयोग्यम्‌",
       "kutra": "",
@@ -1771,7 +1660,7 @@
       }
     },
     "d13dfdef-b3ec-41c9-a94b-965d3ef29695": {
-      "text": "“स्वतः प्रवृत्त्यशक्तत्वादीशावास्यमिदं जगत्।",
+      "text": "“स्वतःप्रवृत्त्यशक्तत्वादीशावास्यमिदं जगत्।",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {

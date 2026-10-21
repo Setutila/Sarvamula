@@ -3543,7 +3543,12 @@
               "text": "द्रवद् द्रुतं सुतात्पर्यद्योतकोऽभ्यास इष्यते॥ २/५॥ (३)"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "content_type": "Mula",
+      "children": [
         {
           "padya": true,
           "children": [
@@ -3591,7 +3596,7 @@
       ]
     },
     {
-      "content_type": "Sarvamula",
+      "content_type": "Mula",
       "children": [
         {
           "padya": true,

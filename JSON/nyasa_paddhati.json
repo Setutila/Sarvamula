@@ -2,15 +2,6 @@
   "title": "न्यासपद्धतिः",
   "content": [
     {
-      "content_type": "Heading1",
-      "children": [
-        {
-          "id": "81bb2543-300a-4fc7-8b17-55aab5b11824",
-          "text": "न्यासपद्धतिः"
-        }
-      ]
-    },
-    {
       "content_type": "Sarvamula",
       "children": [
         {
@@ -279,15 +270,6 @@
     }
   ],
   "content_flat": {
-    "81bb2543-300a-4fc7-8b17-55aab5b11824": {
-      "text": "न्यासपद्धतिः",
-      "kutra": "",
-      "pratika_type": "",
-      "pathanatara": {
-        "bg_patha": "",
-        "trk_patha": ""
-      }
-    },
     "c87ae76a-14d5-40e8-9628-fa1fd9cbcd50": {
       "text": "नरनारायणं नत्वा पूर्णं ब्रह्माक्षरोदितम्।",
       "kutra": "",

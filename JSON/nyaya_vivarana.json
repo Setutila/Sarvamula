@@ -22,7 +22,7 @@
             },
             {
               "id": "de963791-bb07-49cc-a0e3-af4db8873222",
-              "text": "नमो नारायणायाजशर्वशक्रादिवन्दित॥ *॥"
+              "text": "नमो नारायणायाजशर्वशक्रादिवन्दित॥"
             }
           ]
         },
@@ -35,7 +35,7 @@
             },
             {
               "id": "bc334bc8-965e-4495-8025-c355a30f3e2a",
-              "text": "कृष्णस्य सूत्रानुव्याख्यासन्न्यायविवृतिं स्फुटम्॥ **॥"
+              "text": "कृष्णस्य सूत्रानुव्याख्यासन्न्यायविवृतिं स्फुटम्॥"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "id": "e7e56332-7919-4189-bbe9-4d510028986b",
-              "text": "प्रीत्यै तस्यैव देवस्य तत्प्रसादपुरःसरः॥ ***॥"
+              "text": "प्रीत्यै तस्यैव देवस्य तत्प्रसादपुरःसरः॥"
             }
           ]
         }
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5707838b-317b-4658-9d10-b7dd13b00de5",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ea9a65fd-8fde-4036-9ce0-a02882123a32",
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "c476ab50-59e2-44f1-9a26-7ec09854451e",
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "f4dc2763-b184-42f7-af04-e7bd1a3c85c3",
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6d323c60-af27-4b0a-b17d-6e0266f29241",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "eb6b15ab-a8f9-4f8c-8098-297f8d37b333",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "45d6f8b6-c66d-4dde-b6bd-856fe082d1c3",
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "bddeb661-197f-411c-a1d7-30f4197cf84d",
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "cf574fae-0a89-41e9-9d85-2a7676ed1a38",
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ac09ebc0-722c-4dd6-a1f8-8287d39b0519",
@@ -524,7 +524,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "25972ae7-eb72-4789-a9ca-3e508327a1f5",
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5ae74110-daae-4bf1-beb0-d19ac8fc371f",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "31972e0b-7073-4cec-a8da-82b76efdd16f",
@@ -603,7 +603,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3785d634-0f55-4a07-a2d1-1cf3a9f13e28",
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d7379a84-3fd8-4fa6-ad19-c61754c4d7ea",
@@ -685,7 +685,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d375d2b1-979e-4cb5-b024-318b73b931c2",
@@ -738,7 +738,7 @@
           "children": [
             {
               "id": "0cfb31f1-7b08-48f0-b218-052ca2491927",
-              "text": "[विषयमाला (अनुव्याख्याने १-३-७)-"
+              "text": "[विषयमाला (अनुव्याख्याने १/३/७)-"
             },
             {
               "id": "811af2b9-65ea-4bda-a760-8189837f7494",
@@ -753,7 +753,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "dc3990da-f6f3-4928-9065-9f48e7dd3621",
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "12f0fa91-1517-46c5-b96a-9ba82cf1ada4",
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b0fd0eb2-39cb-4387-bd47-6689b3e3a917",
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a608ef70-4132-479a-9b32-c76745076fde",
@@ -932,7 +932,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "cf87a06f-ee44-4992-bcf9-2ee0f9c1f14a",
@@ -950,7 +950,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4a1a191d-a26a-4106-be95-c3ffa7c55f19",
@@ -981,7 +981,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0372bd30-3e5e-4546-8108-de5bfe37ff92",
@@ -999,7 +999,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a585e01e-07e0-475f-9f9a-b4508c80ba98",
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "356a6d53-1f4f-46f5-9357-e50166f1c121",
@@ -1039,7 +1039,7 @@
       "children": [
         {
           "id": "dc7b87f9-43ed-4670-98e9-23aa47b6e072",
-          "text": "[न्यायमाला (अनुव्याख्याने १-३-८-९) -"
+          "text": "[न्यायमाला (अनुव्याख्याने १/३/८-९) -"
         },
         {
           "id": "9b2af9fa-6262-47f0-9f33-9ce2479b66b3",
@@ -1064,7 +1064,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "c419b461-eef2-40fe-8284-4986763ffe7f",
@@ -1135,7 +1135,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "38baf9e8-0884-467c-b627-7cdc8089979f",
@@ -1164,7 +1164,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b693cfa8-c79f-4b1f-bb1c-daf9b2b5b43e",
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "8033fc38-5d0e-4562-9b10-7be0a52782a1",
@@ -1233,7 +1233,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "260870c8-3c89-44a1-8233-4823f686111b",
@@ -1283,7 +1283,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d1f2455d-ae65-4ba0-9a6d-b3e64f754a05",
@@ -1346,7 +1346,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5c7eca6a-8537-4c6e-80f2-3aeb28c5edae",
@@ -1394,7 +1394,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "84fd0094-2d81-44c0-94d5-329321d0f0a0",
@@ -1412,7 +1412,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "32adc97d-1d6d-47cb-92fc-5672152c11aa",
@@ -1445,7 +1445,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "fb49e927-89c8-40ef-9246-51ea5da32689",
@@ -1474,7 +1474,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0410fa02-999d-411c-b2a2-6ffc83cedb83",
@@ -1492,7 +1492,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "8af02701-ffb5-44c7-91b8-93e114b49049",
@@ -1527,7 +1527,7 @@
           "children": [
             {
               "id": "64908624-64cf-46d5-923e-32644c4253f2",
-              "text": "[न्यायमाला (अनुव्याख्याने १-३-१०) -"
+              "text": "[न्यायमाला (अनुव्याख्याने १/३/१०) -"
             },
             {
               "id": "7dde8795-73d3-45ca-9131-08d9fd900935",
@@ -1542,7 +1542,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3b827bff-030f-414a-b2d8-f40023965752",
@@ -1579,7 +1579,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a48952e0-9871-4ae0-9042-c08dda01f974",
@@ -1616,7 +1616,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "de64d3b0-3afe-407f-a3be-29442a6563d0",
@@ -1670,7 +1670,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0011b9ff-0d71-4ee1-a991-76a7a7fcdeed",
@@ -1692,7 +1692,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7fca0c7a-0365-4bbd-b8b5-9a4ced47980b",
@@ -1724,7 +1724,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e5e6e376-a701-4ba8-a262-be02bbb7afc2",
@@ -1774,7 +1774,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "08eda7be-238b-4587-967f-0aca3ace2ec5",
@@ -1796,7 +1796,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "91fd9d4e-2e18-4c54-bd4f-52ae2aa74039",
@@ -1818,7 +1818,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4e3974e0-3782-44a4-9c39-700ca86a8220",
@@ -1880,7 +1880,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6e5b7fa6-10e6-4553-b9e3-1171d35cad77",
@@ -1909,7 +1909,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4ddd551b-29dc-4e7b-ac7c-b9d868b8c9c2",
@@ -1937,7 +1937,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "110eb323-7834-42e8-aa9c-332fca67630e",
@@ -2006,7 +2006,7 @@
           "children": [
             {
               "id": "bfb122f9-452f-4416-9c07-e2ae9e574570",
-              "text": "[न्यायमाला (अनुव्याख्याने १-४-२३-२५)-"
+              "text": "[न्यायमाला (अनुव्याख्याने १/४/२३-२५)-"
             },
             {
               "id": "d12128c0-00ec-40f4-9324-f1e152e32d73",
@@ -2041,7 +2041,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9f4a4cb3-a19e-4166-90bc-f58dd8a5306a",
@@ -2148,7 +2148,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0a206ae9-1090-4fd2-89be-94ed832ef142",
@@ -2182,7 +2182,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a99efddd-f789-4a19-8aa8-10d86b796a55",
@@ -2206,7 +2206,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ed6cd9ad-da47-4bf1-aa01-e793797294ae",
@@ -2267,7 +2267,7 @@
           "children": [
             {
               "id": "2e70e428-80b9-4cf1-82a1-5accf8cf02cb",
-              "text": "[न्यायमाला (अनुव्याख्याने २-१-३-४)-"
+              "text": "[न्यायमाला (अनुव्याख्याने २/१/३-४)-"
             },
             {
               "id": "c190a3da-620a-43f6-9ee4-566a6ab5a890",
@@ -2290,7 +2290,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "953d6b75-a219-4c5f-87ab-44e995e73656",
@@ -2312,7 +2312,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "771791c4-c6ad-4a6c-91f3-631084dffb64",
@@ -2334,7 +2334,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3e68f0bb-7298-4cf8-9ad8-519fd1d961c6",
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "faccccd7-804e-48ca-9fb5-21b0f7a36756",
@@ -2388,7 +2388,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "1f38f884-e94d-4575-ac1c-10ff21c2809b",
@@ -2511,7 +2511,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "1c9092d6-2332-4006-8515-aa4a40cb4912",
@@ -2560,7 +2560,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "328553c8-77dd-4f53-b1c4-b830d85f6ecf",
@@ -2623,7 +2623,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0dc98df1-021d-46d8-a170-3c4131719636",
@@ -2655,7 +2655,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "646c053f-1440-4d8e-a120-3db09cd3ceb7",
@@ -2687,7 +2687,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "79c00aa4-f19e-4bb9-8a45-9d40974e3cf7",
@@ -2723,7 +2723,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b7a11a85-25f1-4faf-8cd4-60846f2470ff",
@@ -2831,7 +2831,7 @@
           "children": [
             {
               "id": "b82a6a5a-77c9-4802-87f9-c4ff20f66fdd",
-              "text": "[न्यायमाला (अनुव्याख्याने २-३-३-८)-"
+              "text": "[न्यायमाला (अनुव्याख्याने २/३/३-८)-"
             },
             {
               "id": "666122d8-ca1a-4f82-bed9-c4489972f99a",
@@ -2890,7 +2890,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "040b3897-f5c4-4369-a641-9770cf30c20e",
@@ -2956,7 +2956,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6c70f853-e1a2-428b-9ff5-0ff51a928f4c",
@@ -3018,7 +3018,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4706dbd8-0d3b-4ad8-bf53-70041a27a9db",
@@ -3040,7 +3040,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9964f24f-8af0-4ecb-928a-cd17d1222842",
@@ -3082,7 +3082,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7ccce6ab-2ceb-4554-b318-4473b0b3d239",
@@ -3104,7 +3104,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "128042e4-e0f4-4e14-a999-a48f4411fa18",
@@ -3153,7 +3153,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "16915f5f-20b3-4e19-b0f7-bd806e1194ed",
@@ -3216,7 +3216,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "01d680f4-f8c4-42f5-a1fe-ff00a339aca7",
@@ -3289,7 +3289,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "f8159004-06c2-4114-943d-df3137568c59",
@@ -3346,7 +3346,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "33a2e8d7-3659-4af9-ba70-a738e0740348",
@@ -3391,7 +3391,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b6008c05-a83b-4a2b-a5e2-13d12c4f3b3c",
@@ -3430,7 +3430,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0cec0590-32cc-4350-94f6-8f575abd74b5",
@@ -3470,7 +3470,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a39bb022-a455-495b-8f38-cfac941bf5a7",
@@ -3492,7 +3492,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "033c7634-69b5-41bb-b2f4-7618fa67bfff",
@@ -3532,7 +3532,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7f9c42e4-e773-4c69-b30e-02500db4ddff",
@@ -3562,7 +3562,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7d6613a0-fe53-4ae0-b9cd-ae2f6494cdb6",
@@ -3594,7 +3594,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "92432892-d1bc-430d-a7b0-0730c47f179e",
@@ -3628,7 +3628,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "dfca1168-9261-4957-b200-28a84ba46fe1",
@@ -3660,7 +3660,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e376c278-34cd-4e8e-adab-e87f647a4907",
@@ -3717,7 +3717,7 @@
           "children": [
             {
               "id": "f35ef8fc-37f2-44b7-9853-cab6170973ce",
-              "text": "[न्यायमाला (अनुव्याख्याने २-४-२-३)-"
+              "text": "[न्यायमाला (अनुव्याख्याने २/४/२-३)-"
             },
             {
               "id": "0cfc7fc4-9e10-41bc-9c8a-e0a715217787",
@@ -3744,7 +3744,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "81d3835c-93ef-4458-bb85-4f962135e9c7",
@@ -3834,7 +3834,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b6817906-da7a-4efa-88cf-4bc04807a8dc",
@@ -3882,7 +3882,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "8b78a6ea-da53-4745-8dac-d27f3161e7d2",
@@ -3936,7 +3936,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "826ca7b1-afc5-4ddc-9b87-b99b0552ae1c",
@@ -4005,7 +4005,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "87291ac5-ee47-4083-8c09-500a58c17355",
@@ -4051,7 +4051,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e1965513-7c29-49a8-b2b9-e39ed25aa762",
@@ -4113,7 +4113,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d81006b7-6f16-490e-8e6c-54fc509495da",
@@ -4153,7 +4153,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "13824bab-bd46-43bf-a61e-bb0791b5f476",
@@ -4207,7 +4207,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4e1b69a6-744b-421f-9f59-1fe4ea2529e6",
@@ -4248,7 +4248,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5974e936-0d19-4a0e-938a-e03d430bd224",
@@ -4313,7 +4313,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d269dbc5-00b0-4869-871b-ccd3ea0a6645",
@@ -4377,7 +4377,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "44ea82e9-977e-4832-9040-4dacb07f1f81",
@@ -4491,7 +4491,7 @@
           "children": [
             {
               "id": "89403c4b-1db5-41ba-9d90-f73a36cabfa9",
-              "text": "[न्यायमाला (अनुव्याख्याने ३-१-१-३)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ३/१/१-३)-"
             },
             {
               "id": "f45085c7-46be-4417-a57a-3cb66147301b",
@@ -4526,7 +4526,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e724bf79-69bc-4d99-b062-aa6037019c10",
@@ -4584,7 +4584,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "64b55289-66a2-43d5-b1ea-997088a6b42f",
@@ -4617,7 +4617,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "098e86b7-7a8f-411b-8532-c6d36d6e6ae6",
@@ -4639,7 +4639,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4ecec4f8-2b86-4117-82e6-4693f74a3c47",
@@ -4680,7 +4680,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "87555b12-7520-4fbd-9958-0241d9e5d1b5",
@@ -4755,7 +4755,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9b103de7-66b9-45aa-9293-664363042a4b",
@@ -4801,7 +4801,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "81cae91c-cf20-48c4-99cb-53a80f44311b",
@@ -4887,7 +4887,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "bc28d2b5-fc91-4b0a-a771-911cb55c4b37",
@@ -4930,7 +4930,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "afbcdbe4-4002-4a91-b6af-b9844a9b7e6a",
@@ -4962,7 +4962,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "2b0fb0b3-f796-49de-a33e-2a2e52359fb8",
@@ -5016,7 +5016,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "51d9d410-8ece-4c9d-b633-1f65e7b84c91",
@@ -5038,7 +5038,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7f326513-4914-4f49-8983-7970b80f7953",
@@ -5082,7 +5082,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5677bc77-e2d6-40d6-8dc8-ad0c83dd336e",
@@ -5110,7 +5110,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "898f7b07-b6cf-40a7-a2a4-5fdbc49f0f99",
@@ -5147,7 +5147,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "30971cad-b4db-482c-b119-89e52ce87449",
@@ -5179,7 +5179,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "fef6f7b4-7999-44a5-8f09-77f8176f6df9",
@@ -5201,7 +5201,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "94a9b5e8-304b-475e-8c87-738d710e2e97",
@@ -5232,7 +5232,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "35ad5fda-a603-4af7-b594-a89f63e0c3d0",
@@ -5264,7 +5264,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "1a0a08b2-d0b8-4f8f-b1c8-67e34b99414d",
@@ -5301,7 +5301,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "48ddc365-e2ff-4546-82cc-21eae40cde79",
@@ -5389,7 +5389,7 @@
           "children": [
             {
               "id": "da0efa3f-63d2-4474-8755-e163f51d6ee0",
-              "text": "[न्यायमाला (अनुव्याख्याने ३-२-१-४)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ३/२/१-४)-"
             },
             {
               "id": "e6ccb9e0-f3e3-4d81-8595-e859cb9fdcf2",
@@ -5428,7 +5428,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "1128a9c5-bf2c-4113-9909-b471535d06a6",
@@ -5460,7 +5460,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d0dd6d15-ad29-4db8-b897-0194615be097",
@@ -5512,7 +5512,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "cf47273b-bed0-44e6-a53d-a0e67d79f350",
@@ -5538,7 +5538,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "58c794b5-b849-4fd9-8882-a0a3cd5f9b5b",
@@ -5570,7 +5570,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "c0e76c2a-307b-4aab-9dd4-d2d9003ed6d2",
@@ -5605,7 +5605,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "8c0c8b65-4fa6-4a44-bef2-8a61cbe4618d",
@@ -5645,7 +5645,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3a45ccc6-a0dc-486e-95bc-47487718ee83",
@@ -5675,7 +5675,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ff15cac5-e945-4177-8c1e-be3f5432ba77",
@@ -5733,7 +5733,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "98d98c80-6979-4340-8dcb-a3c3a79c2bb6",
@@ -5755,7 +5755,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a4b0653c-ee65-4d1d-9da7-35ad5b90ee76",
@@ -5783,7 +5783,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "999955ed-7b6f-439b-93ee-39cb3c755b5f",
@@ -5805,7 +5805,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "2d30972f-487d-4c88-bc6f-7f29c9ee8476",
@@ -5850,7 +5850,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d593314b-d672-492d-9457-423db6b1afb7",
@@ -5885,7 +5885,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "26358f10-a566-4d79-a320-dd363f1432b5",
@@ -5907,7 +5907,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5f28399e-5237-42c7-b359-cb6cecec0b2e",
@@ -5929,7 +5929,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9fc43550-0435-408f-ad16-97434d44c1cc",
@@ -5979,7 +5979,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "f0ff7e64-0f69-42ea-8a65-9a719fc61117",
@@ -6029,7 +6029,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "850ea47f-2e28-4549-97cc-ea6211e60451",
@@ -6074,7 +6074,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "11488675-cbf1-4b4c-9335-ded2299e82ef",
@@ -6159,7 +6159,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4ddd8d7f-f646-48f7-aac4-38ea1b334c50",
@@ -6296,7 +6296,7 @@
           "children": [
             {
               "id": "7e912559-1a4c-495d-acec-8a22c0c9c517",
-              "text": "[न्यायमाला (अनुव्याख्याने ३-३-५७-६७)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ३/३/५७-६७)-"
             },
             {
               "id": "1a99ea30-5e52-44b0-9344-71d5795a0f71",
@@ -6391,7 +6391,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3fd3b822-649d-4c45-b738-e3b43be0457c",
@@ -6422,7 +6422,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "0a794e96-bbe9-41e4-90b1-b42973635681",
@@ -6477,7 +6477,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "bd46437c-1696-41f5-93ac-6b31659f43f0",
@@ -6535,7 +6535,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "33a21b67-5dc4-4160-9c9e-0a9c6143f170",
@@ -6557,7 +6557,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6caba74b-3392-4763-810f-98f8a345c04c",
@@ -6589,7 +6589,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7b99933c-7813-4c61-b391-34aa577534fd",
@@ -6655,7 +6655,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6a3db13c-6160-4c22-a1d3-9a637d21a74b",
@@ -6699,7 +6699,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a697f744-3dc3-43ab-b4cd-24779fa34d1c",
@@ -6747,7 +6747,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5f71cf96-4feb-4769-a778-2d6f6e23f9e7",
@@ -6775,7 +6775,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7c9f4e27-003b-4183-96b4-b7861e834106",
@@ -6807,7 +6807,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4b18f965-0767-4fe0-90a6-a6c55d4a5780",
@@ -6829,7 +6829,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d50c48b1-e4a9-444c-86f2-655b78dfc28a",
@@ -6883,7 +6883,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4c6c1ba2-7d5f-45a0-85df-d3616b162890",
@@ -6911,7 +6911,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "27438665-7a68-4f8e-86a4-c8a29de179ec",
@@ -7017,7 +7017,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4baf7ee5-6f2a-4d52-9ba6-1e1ffa2c7f64",
@@ -7072,7 +7072,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6ac13174-b178-430e-9860-4c5279bf6736",
@@ -7123,7 +7123,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "40d54e11-f0e5-44a5-a493-d3d6606079f3",
@@ -7151,7 +7151,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "dcba73d5-2565-4cd4-bbad-a0c761b41f1a",
@@ -7199,7 +7199,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "1e3d4356-cc65-4dce-a8ee-7120cf88eaf0",
@@ -7257,7 +7257,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "61db284d-a198-401a-8a0e-07485add09a3",
@@ -7320,7 +7320,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "2a0cc6b8-0205-403a-84c9-66733656560d",
@@ -7357,7 +7357,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "750d787c-9f5b-4714-ae27-7da5eb4521c9",
@@ -7437,7 +7437,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6d516370-25e3-4002-a74e-a231d1dc5af3",
@@ -7467,7 +7467,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "05bd1bef-a62d-43ad-948e-b68a61223750",
@@ -7502,7 +7502,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9617b501-0d2c-4256-a419-b135bd3322ce",
@@ -7565,7 +7565,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "09be88da-1b11-4430-9535-94b03a84a351",
@@ -7602,7 +7602,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6148a48c-c7d0-4d25-8f36-3db407fc8ab8",
@@ -7624,7 +7624,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ec1cdaaa-39e9-43ce-a13b-1935a494b749",
@@ -7657,7 +7657,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "823e1edb-0470-4dad-aea0-eddb3dcd4ecf",
@@ -7733,7 +7733,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d541e8d7-7403-49cd-ac17-b674b78806da",
@@ -7788,7 +7788,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ec2eb623-fc6b-4ba8-882e-26030a788afd",
@@ -7880,7 +7880,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "21a410d8-3227-4536-a9e4-a64cc84c6d6c",
@@ -7915,7 +7915,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "27eceacb-e7ed-4bdc-820c-ba39f5e308aa",
@@ -7983,7 +7983,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "be77e456-7321-46a1-814b-227eb9b81b54",
@@ -8019,7 +8019,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6adc4c1f-8a7b-4161-ac6a-1b6344df5072",
@@ -8083,7 +8083,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "c693cf0a-6d5d-46f0-ab04-7f37155638d4",
@@ -8116,7 +8116,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "6b2037c4-ebb4-4327-8e62-7b899e620d5b",
@@ -8162,7 +8162,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9d2d8a14-9c81-468f-a6f2-f03a68ee3bda",
@@ -8190,7 +8190,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "fc1ff921-63c6-4bbc-a636-c2080999dba5",
@@ -8229,7 +8229,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "58f3b7a0-2363-46f8-a201-18bab273bed2",
@@ -8301,7 +8301,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "033f2924-974e-4c44-8e9e-97c589edbfd1",
@@ -8382,7 +8382,7 @@
           "children": [
             {
               "id": "4a5fc4f8-d00c-4e7b-ba93-786f66f6e0d5",
-              "text": "[न्यायमाला (अनुव्याख्याने ४-२-१२४-५)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ४/२/१२४-५)-"
             },
             {
               "id": "bf318060-9038-4482-9c78-37b15326ddb2",
@@ -8405,7 +8405,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "597b61ac-7a9f-4af4-85a9-045aaa80bf5f",
@@ -8459,7 +8459,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b434c645-0c79-45d5-a3b9-67f2bbbf7f8d",
@@ -8505,7 +8505,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "eb7ab53b-5df2-42a3-9190-d0507c4e4b49",
@@ -8559,7 +8559,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "8a7d8f6f-659a-488c-8013-f89782e3113a",
@@ -8675,7 +8675,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "52e1749d-70fc-4213-a2f1-d0e006978399",
@@ -8718,7 +8718,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "4d8ef852-6ce9-4317-aadd-50f5c1a65ce4",
@@ -8800,7 +8800,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "01d90c0f-2a75-4fe9-96e7-31d0dc625e93",
@@ -8874,7 +8874,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "f627b6be-5857-447c-9eda-d5a5261c7bcb",
@@ -8979,7 +8979,7 @@
           "children": [
             {
               "id": "f736fd43-fe41-418c-b803-76c547afdd78",
-              "text": "[न्यायमाला (अनुव्याख्याने ४-२-१२६-७)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ४/२/१२६-७)-"
             },
             {
               "id": "ca587fc2-d40c-4d7b-8ef5-72a7f28f6dc8",
@@ -9002,7 +9002,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "ba172a49-ae74-4d01-b675-eb7def16e797",
@@ -9038,7 +9038,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "546d37cb-1bae-4373-82d2-53f76a83bd44",
@@ -9060,7 +9060,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "32f0f3b6-d839-4d20-939e-c65da7cf2521",
@@ -9096,7 +9096,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "dc29c83b-39f2-4b84-9832-d0252c68d9a7",
@@ -9126,7 +9126,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "f6f2fc0f-6372-4085-8933-0802e2ea87b0",
@@ -9148,7 +9148,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9e4d1493-3194-4eda-99ca-a5c805bedbec",
@@ -9174,7 +9174,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e707f5a1-314e-427f-bffd-e0b9047093fc",
@@ -9196,7 +9196,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "8fc98334-b3ea-4704-a4d9-11521786b934",
@@ -9279,7 +9279,7 @@
           "children": [
             {
               "id": "e00aa0f9-d2de-44ec-9548-ae506b0b1746",
-              "text": "[न्यायमाला (अनुव्याख्याने ४-३-१२८-९)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ४/३/१२८-९)-"
             },
             {
               "id": "46a998fc-095f-44d4-b024-b48c303da820",
@@ -9302,7 +9302,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "af82f1e8-7c26-43ab-9602-3d72701fd57a",
@@ -9429,7 +9429,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "a6a55c89-edc0-4ec7-88d6-e7a3a40854f4",
@@ -9501,7 +9501,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "95cbc260-1c67-4852-968e-df688e75f76e",
@@ -9534,7 +9534,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "b63be209-d096-4c70-bf46-c291bde71864",
@@ -9580,7 +9580,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "cd63af60-f61d-4935-9e18-764736bb0e98",
@@ -9648,7 +9648,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3055877d-23a6-43a7-9280-e99bebe0dfcf",
@@ -9683,7 +9683,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "34db6872-22fd-4655-8c97-1212f3495ffe",
@@ -9722,7 +9722,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7a300a50-e30e-4223-af69-c045e4dbb022",
@@ -9891,7 +9891,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d5e7ede1-97fc-4e96-98c0-4eae73c2d9dd",
@@ -9980,7 +9980,7 @@
           "children": [
             {
               "id": "5b1b7791-97eb-43eb-9782-f7a93402c9ad",
-              "text": "[न्यायमाला (अनुव्याख्याने ४-३-१-२)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ४/३/१-२)-"
             },
             {
               "id": "9ea7d0cc-2620-441b-b597-e4741bcf63b8",
@@ -10003,7 +10003,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "60a01042-9601-44a6-b407-d704cf72c913",
@@ -10184,7 +10184,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9e25e543-00f8-44ff-9534-39f313d25c53",
@@ -10278,7 +10278,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "7c5f4fd2-b825-4d68-acb2-b5f38d86e7bb",
@@ -10431,7 +10431,7 @@
           "children": [
             {
               "id": "1802bd79-ee47-405b-a03c-b04ae872b82e",
-              "text": "[न्यायमाला (अनुव्याख्याने ४-४-१-२)-"
+              "text": "[न्यायमाला (अनुव्याख्याने ४/४/१-२)-"
             },
             {
               "id": "3b94a911-c31f-447e-9802-24409c51b554",
@@ -10454,7 +10454,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "921968c6-0270-4a84-a6c7-298271bd90e5",
@@ -10524,7 +10524,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "38b55ea0-83d4-427b-bdf4-653bbc098d31",
@@ -10626,7 +10626,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "d4d4a5c2-a631-4a4a-b155-c785103222c4",
@@ -10694,7 +10694,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "5394058f-dbd3-4a25-836a-0abcc877b859",
@@ -10744,7 +10744,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e1ea7a00-e031-4423-a400-0361cf30e6d3",
@@ -10795,7 +10795,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "da326eb1-985b-439b-9776-b6c5e5eacccd",
@@ -10852,7 +10852,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "83e2aa6e-1fb6-4170-a43d-f32406976222",
@@ -10912,7 +10912,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "e5972a7c-ba54-4902-a4dc-47cbb7c5823c",
@@ -10962,7 +10962,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "3c691354-7a96-4055-a422-4e1e9b468eb1",
@@ -11058,7 +11058,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "85ba6ad8-319d-4c46-87a8-64e8c7abaac7",
@@ -11108,7 +11108,7 @@
       ]
     },
     {
-      "content_type": "Title",
+      "content_type": "Subheading",
       "children": [
         {
           "id": "9d08ed8d-f6ab-4899-bcb1-43b5b9579ed1",
@@ -11452,7 +11452,7 @@
       }
     },
     "de963791-bb07-49cc-a0e3-af4db8873222": {
-      "text": "नमो नारायणायाजशर्वशक्रादिवन्दित॥ *॥",
+      "text": "नमो नारायणायाजशर्वशक्रादिवन्दित॥",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -11470,7 +11470,7 @@
       }
     },
     "bc334bc8-965e-4495-8025-c355a30f3e2a": {
-      "text": "कृष्णस्य सूत्रानुव्याख्यासन्न्यायविवृतिं स्फुटम्॥ **॥",
+      "text": "कृष्णस्य सूत्रानुव्याख्यासन्न्यायविवृतिं स्फुटम्॥",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -11488,7 +11488,7 @@
       }
     },
     "e7e56332-7919-4189-bbe9-4d510028986b": {
-      "text": "प्रीत्यै तस्यैव देवस्य तत्प्रसादपुरःसरः॥ ***॥",
+      "text": "प्रीत्यै तस्यैव देवस्य तत्प्रसादपुरःसरः॥",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -12341,7 +12341,7 @@
       }
     },
     "0cfb31f1-7b08-48f0-b218-052ca2491927": {
-      "text": "[विषयमाला (अनुव्याख्याने १-३-७)-",
+      "text": "[विषयमाला (अनुव्याख्याने १/३/७)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -12666,7 +12666,7 @@
       }
     },
     "dc7b87f9-43ed-4670-98e9-23aa47b6e072": {
-      "text": "[न्यायमाला (अनुव्याख्याने १-३-८-९) -",
+      "text": "[न्यायमाला (अनुव्याख्याने १/३/८-९) -",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -13184,7 +13184,7 @@
       }
     },
     "64908624-64cf-46d5-923e-32644c4253f2": {
-      "text": "[न्यायमाला (अनुव्याख्याने १-३-१०) -",
+      "text": "[न्यायमाला (अनुव्याख्याने १/३/१०) -",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -13805,7 +13805,7 @@
       }
     },
     "bfb122f9-452f-4416-9c07-e2ae9e574570": {
-      "text": "[न्यायमाला (अनुव्याख्याने १-४-२३-२५)-",
+      "text": "[न्यायमाला (अनुव्याख्याने १/४/२३-२५)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -14165,7 +14165,7 @@
       }
     },
     "2e70e428-80b9-4cf1-82a1-5accf8cf02cb": {
-      "text": "[न्यायमाला (अनुव्याख्याने २-१-३-४)-",
+      "text": "[न्यायमाला (अनुव्याख्याने २/१/३-४)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -14899,7 +14899,7 @@
       }
     },
     "b82a6a5a-77c9-4802-87f9-c4ff20f66fdd": {
-      "text": "[न्यायमाला (अनुव्याख्याने २-३-३-८)-",
+      "text": "[न्यायमाला (अनुव्याख्याने २/३/३-८)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -16196,7 +16196,7 @@
       }
     },
     "f35ef8fc-37f2-44b7-9853-cab6170973ce": {
-      "text": "[न्यायमाला (अनुव्याख्याने २-४-२-३)-",
+      "text": "[न्यायमाला (अनुव्याख्याने २/४/२-३)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -17147,7 +17147,7 @@
       }
     },
     "89403c4b-1db5-41ba-9d90-f73a36cabfa9": {
-      "text": "[न्यायमाला (अनुव्याख्याने ३-१-१-३)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ३/१/१-३)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -18317,7 +18317,7 @@
       }
     },
     "da0efa3f-63d2-4474-8755-e163f51d6ee0": {
-      "text": "[न्यायमाला (अनुव्याख्याने ३-२-१-४)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ३/२/१-४)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -19586,7 +19586,7 @@
       }
     },
     "7e912559-1a4c-495d-acec-8a22c0c9c517": {
-      "text": "[न्यायमाला (अनुव्याख्याने ३-३-५७-६७)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ३/३/५७-६७)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -22471,7 +22471,7 @@
       }
     },
     "4a5fc4f8-d00c-4e7b-ba93-786f66f6e0d5": {
-      "text": "[न्यायमाला (अनुव्याख्याने ४-२-१२४-५)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ४/२/१२४-५)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -23354,7 +23354,7 @@
       }
     },
     "f736fd43-fe41-418c-b803-76c547afdd78": {
-      "text": "[न्यायमाला (अनुव्याख्याने ४-२-१२६-७)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ४/२/१२६-७)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -23768,7 +23768,7 @@
       }
     },
     "e00aa0f9-d2de-44ec-9548-ae506b0b1746": {
-      "text": "[न्यायमाला (अनुव्याख्याने ४-३-१२८-९)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ४/३/१२८-९)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -24743,7 +24743,7 @@
       }
     },
     "5b1b7791-97eb-43eb-9782-f7a93402c9ad": {
-      "text": "[न्यायमाला (अनुव्याख्याने ४-३-१-२)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ४/३/१-२)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
@@ -25463,7 +25463,7 @@
       }
     },
     "1802bd79-ee47-405b-a03c-b04ae872b82e": {
-      "text": "[न्यायमाला (अनुव्याख्याने ४-४-१-२)-",
+      "text": "[न्यायमाला (अनुव्याख्याने ४/४/१-२)-",
       "kutra": "",
       "pratika_type": "",
       "pathanatara": {
